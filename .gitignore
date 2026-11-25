@@ -1,0 +1,14 @@
+# Publish only the benchmark tasks and the two standalone entry points.
+*
+!.gitignore
+!README.md
+!task/
+!task/**
+!evaluation/
+!evaluation/evaluate.py
+!evaluation/overall.csv
+!worldphyreward/
+!worldphyreward/inference/
+!worldphyreward/inference/score.py
+**/__pycache__/
+**/*.py[cod]

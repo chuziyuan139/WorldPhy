@@ -1,0 +1,3002 @@
+[
+  {
+    "task_id": "RV000001",
+    "caption": "A black robotic gripper approaches the small metal saucepan on the back-right burner, grasps it, lifts it, and carries it leftward to set it on the back-left burner. The gripper then picks up the yellow lemon from the front of the stovetop and releases it into the saucepan.",
+    "image": "../image/000001.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Single arm",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV000015",
+    "caption": "A single robot arm moves from the right burner area, lifts a red-and-white brush-like tool, and lays it across a light green bowl. It then reaches to the left, grasps a green-handled spatula, carries it over the metal pot, and leaves it standing inside the pot.",
+    "image": "../image/000002.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Single arm",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV000028",
+    "caption": "A single robot arm lowers its gripper onto a long silver bar and uses the bar to push through the scattered black beads. It sweeps and repositions the bar across the tabletop, corralling the beads into a tighter elongated pile on the right before lifting and moving away.",
+    "image": "../image/000003.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Single arm",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV000052",
+    "caption": "A robot arm pulls back from the upper handle, moves forward to engage it again, and swings the upper cabinet door outward toward the left. The door opens progressively while the lower door remains closed, and the arm finishes near the opened panel in a fixed external view.",
+    "image": "../image/000004.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Double arms",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV000075",
+    "caption": "A yellow parallel-jaw gripper moves forward toward an upright blue rectangular foam block beside black tape markings. A second yellow gripper enters from the left, contacts the block, and carries it leftward out of the central view. The first gripper remains open below as the view shifts back over the tabletop.",
+    "image": "../image/000005.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Double arms",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV000076",
+    "caption": "The wrist-mounted view shifts from an open cardboard box toward a blue bone-shaped toy on a black mat. White gripper jaws close around the toy, lift and carry it into the box, then release it inside. The gripper withdraws, leaving the toy in the box.",
+    "image": "../image/000006.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Single arm",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV000081",
+    "caption": "A red two-jaw gripper advances across the white tabletop toward a small patterned paper cup. The camera moves with the end effector as the cup grows larger, then passes over its rim and looks down into the empty interior, where the circular bottom remains in view.",
+    "image": "../image/000007.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Single arm",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV000089",
+    "caption": "The right robotic hand moves toward a red apple on the tabletop, closes around it, lifts it, and carries it leftward over a yellow plate. It lowers the apple into the center of the plate, releases it, and withdraws while the other robotic arm remains nearby.",
+    "image": "../image/000008.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Double arms",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV000090",
+    "caption": "A yellow-jawed gripper advances toward a long blue rectangular block beside a black guide, closes around the block, and lifts it upright. The camera travels with the grasped block across the tabletop as a second yellow gripper contacts its side. The block is then moved out of view, leaving the table clear.",
+    "image": "../image/000009.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Double arms",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV000093",
+    "caption": "The right robotic hand moves toward the red round object on the wooden board, closes around it, lifts it, and carries it rightward over the metal pan. It lowers and releases the object into the pan, then withdraws while the left hand remains open beside the board.",
+    "image": "../image/000010.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Double arms",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV000101",
+    "caption": "The two-jaw gripper descends toward a small glass flask at the center of the table, closes around its neck, and lifts it. The arm carries the flask leftward over a white circular laboratory device, lowers it onto the device’s top surface, then releases and withdraws upward.",
+    "image": "../image/000011.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Single arm",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV000102",
+    "caption": "The right anthropomorphic robot hand reaches toward a red apple on the table, closes around it, lifts it, and carries it leftward over the yellow bowl. The hand lowers the apple into the bowl, releases it, and retracts while the apple remains inside.",
+    "image": "../image/000012.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Double arms",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV000103",
+    "caption": "A wrist-mounted view moves across the black perforated work surface toward a red apple. Two opposing gripper jaws close around the apple’s sides, carry it leftward over a white plate, then lower and release it so the apple rests centered on the plate.",
+    "image": "../image/000013.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Single arm",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV000126",
+    "caption": "The right anthropomorphic robot hand reaches from the right toward a red apple beside the yellow bowl, closes around it, lifts it over the bowl, and releases it inside. The hand opens and withdraws to the right while the apple remains in the bowl.",
+    "image": "../image/000014.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Double arms",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV000140",
+    "caption": "The right robotic hand reaches toward a red apple on the tabletop, closes around it, and lifts it. It carries the apple leftward over the yellow plate, lowers it into the plate, releases it, and retracts, leaving the apple centered inside the plate.",
+    "image": "../image/000015.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Double arms",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV000152",
+    "caption": "A robot-mounted view advances toward a tall blue rectangular block beside black tape markings on a wooden surface. A second yellow jaw gripper enters from the left, closes around the block while the lower gripper supports it, then lifts the block out of view. The camera withdraws, leaving the marked surface empty.",
+    "image": "../image/000016.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Double arms",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV000159",
+    "caption": "The two-jaw gripper moves down toward a black upright cylindrical peg, closes around it, and carries it toward a cross-shaped black base. It positions the peg vertically into the base, opens its jaws to release it, then lifts and retreats, leaving the peg standing in the base.",
+    "image": "../image/000017.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Single arm",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV000169",
+    "caption": "A green two-jaw gripper moves in from the right, contacts and lifts the orange-and-white ball, then carries it toward the nearby blue-and-tan ball. It lowers the orange ball onto the other ball, releases it, and retracts rightward, leaving the two balls stacked together.",
+    "image": "../image/000018.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Double arms",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV000172",
+    "caption": "The wrist-mounted camera and its yellow gripper move across the wooden work surface toward a long blue rectangular strip. A second yellow gripper enters from the left, closes around the strip near its lower end, and moves it upward and left as the camera withdraws, leaving the nearby tabletop clear.",
+    "image": "../image/000019.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Double arms",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV000178",
+    "caption": "A single white robot arm moves its two-finger gripper toward the upper silver handle, clamps onto it, and pulls the upper wooden drawer front outward to the left. The front swings open, revealing the empty light-wood interior while the lower drawer remains closed.",
+    "image": "../image/000020.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Single arm",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV000180",
+    "caption": "A blue two-jaw gripper approaches a clear plastic cup on the dark work surface, guides it toward a white circular platform, and positions it over the platform. The view then shifts upward and sideways, keeping the gripper and the control panel of the white device in view.",
+    "image": "../image/000021.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Single arm",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV000185",
+    "caption": "A robotic parallel-jaw gripper descends toward an upright transparent tube at the center of the table, closes around it, and lifts it clear. The arm tilts the tube sideways while moving left, then returns it upright to its original central area, sets it down, opens the jaws, and retracts upward.",
+    "image": "../image/000022.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Single arm",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV000193",
+    "caption": "The right robotic hand lowers onto the yellow corn cob, closes around it, lifts and carries it leftward over the yellow plate, then releases it onto the plate. The hand withdraws to the right while the left robotic hand remains still.",
+    "image": "../image/000023.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Double arms",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV000194",
+    "caption": "The left robotic hand moves toward the yellow fruit-shaped object beside the plate, closes its fingers around it, lifts and carries it rightward over the plate, then opens to release it near the plate's center. The right hand remains poised beside the red fruit.",
+    "image": "../image/000024.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Double arms",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV000198",
+    "caption": "The wrist-mounted view rises from the table edge and moves toward a blue rectangular block. The foreground parallel-jaw gripper closes around the near end to hold it steady while a second gripper approaches from the right, clamps the block, and lifts it away, leaving the tabletop clear.",
+    "image": "../image/000025.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Double arms",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV000218",
+    "caption": "A yellow two-jaw gripper moves across the wooden work surface toward a blue rectangular block. It closes around the block, lifts it, carries it toward the black taped corner on the right, and sets it upright just inside the marked area before withdrawing.",
+    "image": "../image/000026.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Double arms",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV000232",
+    "caption": "The right robotic hand lowers toward the cucumber on the tabletop, closes its fingers around it, and lifts it. It carries the cucumber leftward over the yellow plate, lowers it onto the plate, releases it, and withdraws, leaving the cucumber resting across the plate while the left hand remains still.",
+    "image": "../image/000027.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Double arms",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV000233",
+    "caption": "A blue two-finger gripper holds a clear glass container, carries it across the dark work surface, and lowers it onto the circular platform of a white digital scale. The gripper stays around the container as the scale display changes while the camera moves closely with the end effector.",
+    "image": "../image/000028.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Single arm",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV000238",
+    "caption": "The wrist-mounted view moves forward from the wooden tabletop toward a blue rectangular block beside a black rail. The yellow parallel-jaw gripper closes around the block and lifts it upright, carrying it across the table. A second gripper contacts the block from the right, after which the primary gripper releases and withdraws.",
+    "image": "../image/000029.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Double arms",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV000242",
+    "caption": "The right robotic hand moves down to the dragon fruit, closes its fingers around it, lifts it from the tabletop, and carries it rightward over the gray plate. It lowers the fruit onto the plate, releases it, and withdraws slightly while the left hand remains still.",
+    "image": "../image/000030.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Double arms",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV000245",
+    "caption": "A wrist-mounted camera moves across the wooden work surface toward a tall blue rectangular block beside black tape markings. The foreground clamp closes around and carries the block leftward across the table while a second gripper approaches from the left. The block then leaves view as the camera returns to the empty tabletop.",
+    "image": "../image/000031.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Double arms",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV000249",
+    "caption": "A white two-jaw robot gripper moves forward toward the lower-left area of a red-and-white character board. The jaws align beneath an open red flap, press against the board’s lower section, then retreat, leaving the board and its flaps visibly in place.",
+    "image": "../image/000032.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Single arm",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV000253",
+    "caption": "The robot’s right hand reaches from the right side toward a red apple near the center-right of the table, closes around it, lifts it slightly, and carries it leftward over a yellow bowl. It lowers and releases the apple into the bowl, then withdraws while a person watches from across the table.",
+    "image": "../image/000033.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Double arms",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV000255",
+    "caption": "The wrist-mounted view moves across a wooden tabletop toward a blue rectangular block near black tape markings. A yellow parallel-jaw gripper closes around the block, lifts and carries it leftward to a taped rectangular area, sets it upright inside the marked space, opens to release it, and withdraws.",
+    "image": "../image/000034.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Double arms",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV000273",
+    "caption": "The robot hand moves downward from the upper-right toward the red apple, curls its fingers around the apple, and lifts it slightly off the tabletop beside the yellow pear. The orange fruit and white bin remain stationary as the fixed overhead view continues.",
+    "image": "../image/000035.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Single arm",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV000284",
+    "caption": "The viewpoint turns across a wooden surface as a metal-tipped, dark-handled tool enters from the right. A pair of blocky gripper jaws positions the tool upright in the center, then holds it steadily against the wood with slight adjustment.",
+    "image": "../image/000036.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Single arm",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV000290",
+    "caption": "The right robotic hand approaches the green translucent cup, closes around it, and lifts it from the table. It carries the cup to the basket on the right, tilts it to pour several small colorful pieces inside, then returns the emptied cup to the table beside the resting left hand.",
+    "image": "../image/000037.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Double arms",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV000296",
+    "caption": "A white two-jaw gripper moves forward from the tabletop toward a red animal-picture guessing board. It approaches the middle panels, briefly pauses close to the open red flaps, then withdraws, leaving several flaps open and the animal cards exposed.",
+    "image": "../image/000038.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Single arm",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV000298",
+    "caption": "The wrist-mounted view moves across the tabletop toward a tall blue rectangular block. The foreground two-finger gripper closes around the block and carries it across the surface while a second gripper approaches from the right and contacts its side. The block is then moved out of view, leaving the tabletop clear.",
+    "image": "../image/000039.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Double arms",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV000302",
+    "caption": "The red two-jaw gripper moves across the white tabletop toward a tan cup with a coffee-bean pattern. It closes in around the cup’s lower side without a clearly visible grasp, then backs away and repositions, briefly bringing the cup close to the camera before leaving it on the table.",
+    "image": "../image/000040.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Single arm",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV000306",
+    "caption": "The robotic hand retracts out of the right side of the workspace, then returns low beside the red apple. Its fingers close around the apple, lift it from the tabletop, and carry it upward and off to the right, leaving the yellow pear and orange object in place.",
+    "image": "../image/000041.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Single arm",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV000312",
+    "caption": "The right robotic hand closes around a yellow ear-of-corn-shaped object on the table, lifts it, and carries it leftward above a yellow plate. The left hand reaches in to receive the object, then lowers and releases it onto the center of the plate while both hands withdraw.",
+    "image": "../image/000042.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Double arms",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV000325",
+    "caption": "The wrist-mounted view moves across the wooden work surface toward a tall blue rectangular block beside black tape markings. The foreground yellow gripper closes around the block. A second yellow gripper reaches in from the right, takes the block, and lifts it away, leaving the first gripper over the cleared tabletop.",
+    "image": "../image/000043.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Double arms",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV000332",
+    "caption": "The foreground yellow gripper advances along the taped lane toward a blue rectangular block, closes around its lower sides, and lifts it upright off the table. A second yellow gripper approaches from the right, contacts the raised block, and pulls it rightward until it tilts away and leaves the first gripper open.",
+    "image": "../image/000044.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Double arms",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV000334",
+    "caption": "A blue robotic gripper enters from the left and approaches a small pink drumstick-shaped object beside a shallow pink dish. It closes around the object, lifts and carries it rightward and downward, then releases it inside the dish before withdrawing to the left.",
+    "image": "../image/000045.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Single arm",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV000335",
+    "caption": "The wrist-mounted camera tilts down as the red two-finger gripper approaches a rectangular yellow-and-green scrubbing sponge. The jaws close around the sponge and lift it toward the camera, then carry it sideways past a large blue-green round container while keeping the sponge secured.",
+    "image": "../image/000046.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Single arm",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV000337",
+    "caption": "The wrist-mounted view moves across the wooden work surface toward a bright blue rectangular block. A second gripper-equipped arm appears beside the block while the camera-side gripper takes hold, carries it rightward to a black-tape-marked area, and releases it upright within the taped boundary.",
+    "image": "../image/000047.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Double arms",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV000341",
+    "caption": "A two-jaw robot gripper moves forward over the perforated work surface toward a red apple beside a white bowl. The jaws close around the apple, lift and carry it leftward over the bowl, then lower and release it so the apple rests inside the bowl.",
+    "image": "../image/000048.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Single arm",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV000343",
+    "caption": "The left robotic hand moves toward the red apple beside the plate, closes its fingers around it, lifts it, carries it rightward over the turquoise plate, and releases it near the plate's center. The hand withdraws while the grapes remain in place.",
+    "image": "../image/000049.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Double arms",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV000345",
+    "caption": "The right anthropomorphic robotic hand moves toward the green cluster beside the pink plate, closes around it, lifts it, and carries it leftward over the plate. It releases the cluster near the plate center, leaving it resting inside while the other hand remains beside the yellow object.",
+    "image": "../image/000050.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Double arms",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV000348",
+    "caption": "The red two-finger gripper moves forward across the white tabletop toward a paper cup with a blue base. The cup is lifted or brought very close to the camera, briefly filling the view, then moves away toward the upper left as the gripper returns to an open position over the table.",
+    "image": "../image/000051.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Single arm",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV000364",
+    "caption": "A wrist-mounted view moves across the wooden work surface toward a tall blue rectangular block beside black tape markings. The front gripper closes around the lower part of the block and carries it forward. A second gripper enters from the right, grasps the block, lifts it away, and leaves the first gripper open above the cleared surface.",
+    "image": "../image/000052.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Double arms",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV000366",
+    "caption": "A white robot arm moves down toward a small yellow cup beside a countertop appliance, closes its two-finger gripper around the cup, and slides it leftward onto the appliance’s drip tray beneath the dispensing area. The gripper releases the cup and retracts to the right, leaving it upright in place.",
+    "image": "../image/000053.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Single arm",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV000373",
+    "caption": "The two white gripper jaws move away from the small blue-and-gray rounded object on the black ribbed surface. The viewpoint swings and tilts toward the edge of the workspace while a larger orange-and-gray rounded part enters the lower foreground, partially obscuring the surface.",
+    "image": "../image/000054.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Single arm",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV000374",
+    "caption": "A wrist-mounted gripper moves across the taped wooden work surface toward a blue rectangular block beside a black tape line. The block fills the center as the gripper advances alongside it. A second yellow gripper approaches from the left and contacts the block, after which the block leaves view and the camera retreats over the empty tabletop.",
+    "image": "../image/000055.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Double arms",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV000379",
+    "caption": "A yellow robotic gripper moves across the wooden work surface toward a tall blue rectangular block held near the left side. It closes around the block, carries it rightward along the black tape boundary, lowers it beside the marked corner, and releases it upright before withdrawing.",
+    "image": "../image/000056.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Double arms",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV000387",
+    "caption": "A robotic hand moves in from the right and lowers toward the red ball near the center-right of the table. Its fingers close around the ball, securing it, then the arm lifts the ball upward and slightly rightward, leaving the tabletop clear beneath it.",
+    "image": "../image/000057.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Single arm",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV000403",
+    "caption": "A blue two-finger robotic gripper approaches a clear plastic cup on the dark work surface, closes around its rim, and carries it diagonally toward a white digital scale. The gripper lowers the cup onto the scale’s circular platform while the camera follows closely, ending with the cup resting on the scale.",
+    "image": "../image/000058.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Single arm",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV000419",
+    "caption": "A white parallel-jaw gripper advances toward the red-and-white game board, aligns with a lower red hinged panel, and makes contact. The panel swings outward into an open horizontal position in front of the board. The gripper then withdraws, leaving the opened panel visible as the view pulls back.",
+    "image": "../image/000059.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Single arm",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV000421",
+    "caption": "The red two-finger gripper tilts downward and approaches a brown-and-dark abrasive sponge beside a round blue-gray surface. It closes around the sponge, lifting it into the center of view, then carries it while the wrist-mounted camera rotates slightly, keeping the sponge firmly held.",
+    "image": "../image/000060.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Single arm",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV000422",
+    "caption": "A single robotic arm carries a bright pink ball from the right toward a white rectangular bin near the center of the table. It lowers the ball over the open bin, releases it inside, and retracts upward, leaving the ball resting in the bin.",
+    "image": "../image/000061.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Single arm",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV000424",
+    "caption": "The robot's right articulated hand approaches the red apple on the tabletop, closes around it, lifts it slightly, and carries it leftward over the yellow bowl. It lowers the apple into the bowl, releases it, and retracts while the other robot hand remains visible near the table edge.",
+    "image": "../image/000062.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Double arms",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV000425",
+    "caption": "The wrist-mounted view pans across the marked wooden workspace as a second yellow gripper brings a blue rectangular block toward the foreground gripper. The foreground jaws secure the block, carry it leftward along the taped lane, then open and leave it standing upright inside the outlined area.",
+    "image": "../image/000063.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Double arms",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV000427",
+    "caption": "The wrist-mounted view moves across the marked wooden work surface toward a tall blue rectangular block. The foreground gripper closes around the block, then a second yellow gripper approaches from the right and takes hold. The blue block is lifted and carried away to the right, leaving the tabletop clear.",
+    "image": "../image/000064.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Double arms",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV000430",
+    "caption": "The right robotic hand moves toward the green grape cluster beside the plate, closes its fingers around it, lifts it over the plate, and releases it into the plate. The cluster settles near the lower-left interior while the left robotic hand remains still beside the yellow fruit.",
+    "image": "../image/000065.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Double arms",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV000432",
+    "caption": "The right robotic hand lowers toward the pale cloth, pinches its near edge, and lifts it upward, folding the fabric over itself. The cloth becomes a smaller layered bundle near the center of the table while the left hand remains open and still beside it.",
+    "image": "../image/000066.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Double arms",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV000436",
+    "caption": "A pink two-jaw gripper moves across a white tabletop toward an empty beige paper cup, closes around its sides, and lifts it. The cup fills the view as it is carried and rotated above the table, briefly revealing nearby scissors, another cup, and room furnishings before it is held steady.",
+    "image": "../image/000067.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Single arm",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV000451",
+    "caption": "The left robotic hand moves inward toward the yellow oval object beside the turquoise plate, closes its fingers around it, lifts and carries it over the plate, then releases it near the center. The right robotic hand remains poised beside the red fruit without interacting.",
+    "image": "../image/000068.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Double arms",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV000455",
+    "caption": "A white robot arm lowers its blue two-finger gripper to a small upright transparent object near the center of the black-covered table, closes around it, lifts it, and carries it leftward toward a clear cup. The arm then moves the object back and sets it upright near its original central position before retracting.",
+    "image": "../image/000069.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Single arm",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV000458",
+    "caption": "The wrist-mounted view moves across a wooden work surface toward a tall blue rectangular block beside black tape markings. The foreground gripper closes around the block’s near end while a second yellow gripper approaches from the left. The blue block is then lifted or pulled away, leaving the marked tabletop clear.",
+    "image": "../image/000070.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Double arms",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV000459",
+    "caption": "The right robotic hand approaches the yellow corn cob on the table, closes around it, and lifts it. It carries the cob diagonally up and right toward the yellow plate, lowers it onto the plate, then opens and withdraws, leaving the cob resting on the plate.",
+    "image": "../image/000071.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Double arms",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV000470",
+    "caption": "A white robotic gripper approaches the blue bone-shaped toy on the black mat, closes around it, lifts it, and carries it rightward over the open cardboard box. It releases the toy into the box, where it lands on the bottom; several similar blue toys remain on the tabletop beside the box.",
+    "image": "../image/000072.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Double arms",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV000474",
+    "caption": "The right robot arm moves in from the lower right toward a red apple beside a yellow plate, closes its gripper around the apple, lifts and carries it leftward over the plate, then releases it near the plate's center. The arm withdraws to the right while the apple remains on the plate.",
+    "image": "../image/000073.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Double arms",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV000477",
+    "caption": "The wrist-mounted view moves across the wooden work surface toward a tall blue rectangular block beside black tape markings. The yellow gripper closes around the block and carries it across the table. A second yellow gripper approaches from the right to contact the block, after which the block is removed from view and the first gripper withdraws.",
+    "image": "../image/000074.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Double arms",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV000481",
+    "caption": "A parallel-jaw gripper moves over the perforated work surface toward a red apple, closes around its sides, lifts it, and carries it leftward over a white bowl. The gripper lowers the apple into the bowl, releases it, and withdraws, leaving the apple centered inside.",
+    "image": "../image/000075.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Single arm",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV000487",
+    "caption": "A robot arm carries a green apple over the white plastic bin on the right side of the table, lowers it into the bin, releases it upright near the center, and lifts its open hand away while the camera remains fixed.",
+    "image": "../image/000076.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Single arm",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV000495",
+    "caption": "The right robotic hand approaches the green cluster beside the pink plate, closes around it, lifts it from the tabletop, and moves leftward over the plate. It releases the cluster onto the plate near the lower-left interior, then withdraws while the left hand remains still.",
+    "image": "../image/000077.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Double arms",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV000496",
+    "caption": "Two robotic grippers bring a shiny rectangular metal object into view, rotate it from a diagonal orientation to nearly vertical, and hold it centered between the end effectors. The reflective surface remains upright with only slight settling motion at the end.",
+    "image": "../image/000078.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Double arms",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV000500",
+    "caption": "A pink two-jaw gripper moves across a white tabletop toward a patterned paper cup, closes around it, and lifts it so the empty interior fills the view. The wrist-mounted camera rotates while carrying the cup past another cup, then the gripper sets the patterned cup upright on the table and withdraws.",
+    "image": "../image/000079.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Single arm",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV000513",
+    "caption": "An open pink two-finger gripper moves upward toward a tan-and-green sponge near a pale blue bowl. The fingers close around the sponge, bringing it very close to the camera, then carry it across the bowl while the wrist-mounted view tilts and shifts.",
+    "image": "../image/000080.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Single arm",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV000517",
+    "caption": "The wrist-mounted view moves across the wooden tabletop toward a tall blue rectangular block near the right edge. The yellow jaws close around the block, lift it, and carry it leftward across the taped markings. The gripper lowers and releases the block upright inside the left outlined area, then withdraws.",
+    "image": "../image/000081.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Double arms",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV000522",
+    "caption": "In a fixed front-facing kitchen view, the dual-armed mobile robot holds both grippers over the counter. Its left arm lifts and draws back, pulling the left upper cabinet door open to reveal a dark interior, while the right arm remains extended near the sink.",
+    "image": "../image/000082.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Double arms",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV000539",
+    "caption": "Two white robotic grippers move toward a blue bone-shaped object on the mat, close around it, and lift it. The camera travels with the end effectors as they carry the object over an open cardboard box and lower it inside, leaving the box open.",
+    "image": "../image/000083.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Double arms",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV000544",
+    "caption": "A two-jaw gripper advances toward a red apple on a black perforated work surface, closes around its sides, and carries it forward. A white bowl comes into view beneath the apple; the gripper lowers the apple into the bowl, releases it, and withdraws upward.",
+    "image": "../image/000084.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Single arm",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV000549",
+    "caption": "A two-jaw gripper moves over the perforated work surface toward a red apple, closes around its sides, and lifts it. The gripper carries the apple leftward and lowers it into a white bowl or plate, releases it centered inside, then withdraws as the view pulls back.",
+    "image": "../image/000085.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Single arm",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV000559",
+    "caption": "A white robotic gripper approaches the blue bone-shaped toy on the mat, closes around it, and lifts it. It carries the toy rightward over the open cardboard box, lowers it inside, releases it onto the bottom, and withdraws, while a blue robot arm remains beside the box.",
+    "image": "../image/000086.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Double arms",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV000566",
+    "caption": "The robot arm swings down and forward from above the tiled workspace, extending its two-finger gripper toward a purple cube beside the turquoise block. The gripper reaches the cube near the block's front edge; the cubes and turquoise block remain visibly in place.",
+    "image": "../image/000087.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Single arm",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV000574",
+    "caption": "A white robotic hand moves in from the right toward a small blue cube beside a white plastic bin. Its fingers close around the cube, lift it from the tabletop, and carry it leftward and upward over the open bin, holding it above the bin by the end.",
+    "image": "../image/000088.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Single arm",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV000582",
+    "caption": "A single robot arm lowers its blue two-finger gripper around the upright clear plastic tube, closes to lift it, and carries it leftward while holding it angled above the black-covered table near a small clear cup. The arm then returns the tube to its original central area, sets it upright, releases it, and retracts.",
+    "image": "../image/000089.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Single arm",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV000594",
+    "caption": "The right robotic gripper lifts from the lower right, rotates inward, and moves toward the cross-shaped metal piece near the center. Its orange jaws close around or press against the piece briefly, then open as the arm retracts back toward its starting position; the piece remains on the surface.",
+    "image": "../image/000090.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Double arms",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV000609",
+    "caption": "The right robotic hand moves toward the green grape-shaped toy beside the pink plate, closes its fingers around it, lifts it, and carries it leftward over the plate. It lowers and releases the toy onto the plate, then withdraws while the left hand remains nearby.",
+    "image": "../image/000091.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Double arms",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV000610",
+    "caption": "A single articulated robotic hand carries a red apple from the upper right toward the white bin at the center of the table. It lowers the apple over the bin, opens its fingers to release it inside, then lifts and retracts slightly, leaving the apple resting in the bin.",
+    "image": "../image/000092.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Single arm",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV000617",
+    "caption": "A single robotic hand moves in from the right toward a red apple-like object near the front of the table, closes its fingers around it, and lifts it. The arm carries the object upward and leftward toward the open white bin, ending while holding it above the bin without releasing it.",
+    "image": "../image/000093.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Single arm",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV000630",
+    "caption": "A mobile robot faces a kitchen counter with both articulated arms extended. Its right arm swings down toward the lower cabinet, grips the drawer handle, and pulls the drawer outward toward the camera, leaving it open while the left arm remains raised. The fixed front-facing camera does not move.",
+    "image": "../image/000094.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Double arms",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV000632",
+    "caption": "The robotic hand moves a bright pink ball over the white rectangular bin, lowers it inside, and opens its fingers to release it. The ball drops into the bin and settles near the bottom while the arm remains extended above the container.",
+    "image": "../image/000095.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Single arm",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV000654",
+    "caption": "The right robotic hand moves down toward the pink dragon fruit at the lower right of the table, closes its fingers around it, lifts it, and carries it leftward over the gray plate. The hand lowers the fruit onto the plate and opens, leaving it centered there.",
+    "image": "../image/000096.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Double arms",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV000679",
+    "caption": "Two black parallel-jaw grippers move around a work surface as a green block is lifted and carried toward a blue rectangular tray. The block passes close to the camera, then is lowered into the tray and released near its lower-right corner. The view pulls back slightly, leaving the block resting inside the tray.",
+    "image": "../image/000097.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Double arms",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV000680",
+    "caption": "A single white robot arm moves from the left across the countertop, lowers its parallel-jaw gripper beside the white spoon, and slides the spoon toward the near front edge. The pink food-like item remains on the counter as the arm retracts back toward the left. The external oblique camera stays fixed.",
+    "image": "../image/000098.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Single arm",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV000700",
+    "caption": "A robotic hand carries a red round object from the right toward the white tray at the front of the table. It lowers the object into the tray, releases it, and lifts its fingers away, leaving the red object resting inside the tray.",
+    "image": "../image/000099.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Single arm",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV000710",
+    "caption": "The right robotic hand moves over the blue and red square rings, presses and slides them together near the lower-right area, then reaches to the green-and-yellow block, grasps it, and places it inside the nested rings. The left robotic hand remains still while the camera stays fixed overhead.",
+    "image": "../image/000100.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Double arms",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV000719",
+    "caption": "The robot arm advances its anthropomorphic hand toward the blue cube beside the white tray. Its fingers curl around the cube and close to secure it, lifting or holding it just above the tabletop near the tray's right side. The tray remains empty and stationary, and the camera stays fixed.",
+    "image": "../image/000101.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Single arm",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV000752",
+    "caption": "A single robot arm moves its parallel-jaw gripper to the upper cabinet handle, closes around it, and pulls. The upper blue drawer front swings outward and leftward, revealing the light-colored interior compartment while the lower drawer remains closed. The external side view stays fixed.",
+    "image": "../image/000102.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Single arm",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV000784",
+    "caption": "A single robotic arm lowers from the right toward the upright yellow cup, aligns its two-finger gripper around the cup rim and side, then closes to secure it. The cup remains near its original position as the arm holds it; the red object, orange object, and white bin stay still.",
+    "image": "../image/000103.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Single arm",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV000785",
+    "caption": "In the fixed kitchen view, the robot’s right articulated arm swings down from beside the refrigerator toward the mobile base, bending at the elbow and drawing its gripper inward. The left arm remains extended toward the counter while the right arm finishes tucked close to the base.",
+    "image": "../image/000104.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Double arms",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV000787",
+    "caption": "The right robotic hand moves toward a red apple on the tabletop, closes its fingers around it, lifts it, and carries it rightward into the lower tray of the produce rack. The apple is released beside the other vegetables while the left hand remains open and still.",
+    "image": "../image/000105.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Double arms",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV000788",
+    "caption": "A two-jaw robot gripper advances toward a red apple on the perforated tabletop, closes around its sides, and lifts it. The gripper carries the apple forward over a white bowl, lowers it into the bowl, releases it, and then moves back, leaving the apple centered inside.",
+    "image": "../image/000106.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Single arm",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV000789",
+    "caption": "A single robotic hand moves in from the right, reaches toward the tabletop near the white bin, then carries a small yellow cup-like object over the bin. The hand lowers the object into the bin and releases it, leaving the yellow object standing inside while the other toys remain on the table.",
+    "image": "../image/000107.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Single arm",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV000794",
+    "caption": "A white articulated robotic arm moves in from the right toward the lower handle of a stainless cabinet. Its hand closes around the handle and pulls outward, swinging the lower door toward the camera and revealing dark interior shelves behind it.",
+    "image": "../image/000108.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Single arm",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV000796",
+    "caption": "A two-jaw gripper approaches a red apple on the perforated tabletop, centers it between its jaws, and carries it upward toward a white dish. The apple is lowered into the dish, then the jaws withdraw, leaving the apple resting inside the dish.",
+    "image": "../image/000109.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Single arm",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV000804",
+    "caption": "The right robotic hand moves from the lower right toward a small round lid at the center of the table, closes around it, lifts it, and carries it upward into the clear plastic bin. The lid is released inside the bin, and the right hand withdraws while the left hand remains still.",
+    "image": "../image/000110.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Double arms",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV000809",
+    "caption": "A single robotic arm extends from the right toward the yellow cup near the center of the table. Its articulated hand lowers over the cup, brings its fingers to the rim, and then inserts or presses the fingers into the cup opening while maintaining contact. The cup remains upright as the arm holds position beside it.",
+    "image": "../image/000111.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Single arm",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV000833",
+    "caption": "A single white robotic arm moves across the stovetop toward the open microwave door, brings its gripper to the door edge, and pulls the black door inward. The door swings closed, covering the microwave opening, while the arm retracts slightly beside the stove.",
+    "image": "../image/000112.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Single arm",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV000834",
+    "caption": "A white robot arm moves its parallel-jaw gripper toward the upper curved handle of a wooden cabinet, grips it, and pulls straight back. The upper drawer slides outward to the left, revealing its light wooden interior while the lower drawer remains closed.",
+    "image": "../image/000113.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Single arm",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV000839",
+    "caption": "The parallel-jaw gripper advances toward a black upright rod, closes around it, and carries it forward while the view moves with the end effector. The gripper then opens and withdraws, leaving the rod standing upright in the center of a cross-shaped base.",
+    "image": "../image/000114.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Single arm",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV000854",
+    "caption": "The robot arm withdraws from the appliance’s front tray, moves rightward and downward across the countertop, and carries a small green item at its end effector. It continues lowering and rotating away from the appliance, ending near the lower-right area of the view with the green item still held.",
+    "image": "../image/000115.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Single arm",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV000859",
+    "caption": "A single robotic arm carries a cluster of dark purple grapes over a white rectangular bin, lowers them inside, and opens its fingered hand to release the cluster. The grapes settle in the bin while the arm remains extended above it; the orange object and yellow cup stay still.",
+    "image": "../image/000116.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Single arm",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV000860",
+    "caption": "The robotic hand carries an orange-colored object to the right edge of the table, briefly moves partly out of view, then swings back over the white tray and lowers the object into it. The green pear-shaped object and pink ball remain stationary, while the camera stays fixed overhead.",
+    "image": "../image/000117.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Single arm",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV000874",
+    "caption": "A single robotic arm moves its hand rightward and downward into the white plastic bin, curling its fingers around an unseen item inside. The orange rubber duck remains upright and unmoved on the left side of the tabletop as the camera stays fixed.",
+    "image": "../image/000118.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Single arm",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV000887",
+    "caption": "The robotic hand moves in from the right toward the yellow lemon, lowers its fingers around it, closes into a secure grasp, and lifts the lemon slightly off the tabletop while holding it near the lower-right side of the workspace. The white bin and red ball remain stationary.",
+    "image": "../image/000119.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Single arm",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV000928",
+    "caption": "A single robotic hand moves in from the right toward the black smartphone, lowers its fingers around the phone, closes to grasp it, and lifts it upward and slightly rightward. The phone leaves the tabletop while the nearby yellow and red objects and white bin remain in place.",
+    "image": "../image/000120.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Single arm",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV000933",
+    "caption": "The right robotic gripper rises from the lower right, reaches toward the central four-spoked fixture, and closes around an orange ribbed piece near it. The arm lifts and reorients the piece against the fixture, holds briefly, then lowers and returns toward its starting position; the left arm remains still.",
+    "image": "../image/000121.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Double arms",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV000936",
+    "caption": "The left robotic hand moves toward the yellow oval object beside the plate, closes its fingers around it, lifts it from the tabletop, and carries it rightward over the turquoise plate. It releases the object near the plate's center while the right hand remains beside the red fruit.",
+    "image": "../image/000122.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Double arms",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV000949",
+    "caption": "An anthropomorphic robot hand moves down toward the roll of tan tape on the right side of the table, closes around it, and lifts it slightly while drawing it inward toward the arm. The apple, pear, and empty white bin remain stationary, and the fixed oblique camera view does not move.",
+    "image": "../image/000123.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Single arm",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV000953",
+    "caption": "The right robotic hand moves toward the green grape cluster, closes its fingers around it, lifts it from the tabletop, carries it leftward over the pink plate, and releases it onto the plate. The left hand remains beside the yellow fruit.",
+    "image": "../image/000124.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Double arms",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV000959",
+    "caption": "The right robotic hand reaches to the blue square ring, grasps it, and places it inside the larger red square ring. It then picks up the nested green and yellow pieces from the right side and sets them on top, forming a centered multicolored stack while the left hand remains still.",
+    "image": "../image/000125.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Double arms",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV000962",
+    "caption": "A two-jaw gripper moves upward toward the curved drawer handle as the close camera tilts and rotates with the approach. The drawer front fills the view while the jaws align around the handle, ending in close contact near its center.",
+    "image": "../image/000126.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Single arm",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV000968",
+    "caption": "The robotic hand moves inward from the right toward the orange object, closes its fingers around it, and lifts it off the tabletop. The hand carries the orange object upward and slightly leftward, leaving the green object, white bin, and phone in their original positions.",
+    "image": "../image/000127.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Single arm",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV000978",
+    "caption": "The left robotic hand moves in from the left toward the red apple, closes its fingers around it, lifts it, and carries it rightward over the turquoise plate. It lowers the apple onto the plate and releases it, then withdraws while the green grape cluster remains on the right.",
+    "image": "../image/000128.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Double arms",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV000985",
+    "caption": "The right anthropomorphic robot hand enters holding a yellow corn-shaped object, carries it leftward over the tabletop, and lowers it onto the center of the yellow plate. It opens its fingers to release the object, leaving it resting diagonally on the plate while the hand withdraws to the right.",
+    "image": "../image/000129.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Double arms",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV000987",
+    "caption": "The right robotic gripper moves toward the white cup at the table’s right edge, closes around it, and lifts it upward. It carries the cup leftward over the wooden stand, tilting and rotating it slightly while the cup remains held. The left anthropomorphic robotic hand stays still.",
+    "image": "../image/000130.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Double arms",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV000988",
+    "caption": "In the kitchen scene, the mobile robot’s left articulated arm lifts from the counter area, swings upward toward the range hood, then lowers and retracts toward the cabinet. Its other arm remains extended near the countertop. No object transfer or visible state change occurs; the external camera stays fixed.",
+    "image": "../image/000131.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Double arms",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV000989",
+    "caption": "The left robotic hand moves down to the yellow fruit slice, closes its fingers around it, lifts it, and carries it rightward over the turquoise plate. It releases the slice near the plate center, then withdraws while the right hand remains beside the red apple.",
+    "image": "../image/000132.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Double arms",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV001000",
+    "caption": "The right robotic hand closes around a translucent brown cup near the center of the table, lifts it, and carries it rightward above a woven basket. It tilts the cup to pour several small orange and blue pieces into the basket, then returns the now-empty cup upright near the center.",
+    "image": "../image/000133.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Double arms",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV001005",
+    "caption": "The camera tilts down toward a black cylindrical rod on the white work surface as the foreground parallel-jaw gripper closes around it. The gripper holds the rod upright, lowers it into the center of a black cross-shaped base, then opens and withdraws, leaving the rod standing in the base.",
+    "image": "../image/000134.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Double arms",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV001015",
+    "caption": "A robotic hand on the right lowers and rotates inward toward the tabletop, moving slightly left while remaining above a brown pad. The tray, yellow toy, and plush animal stay in place without contact or displacement.",
+    "image": "../image/000135.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Single arm",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV001017",
+    "caption": "A single robot arm lowers a white circular lid or disc with small colored pieces onto the open top of a green handled cup. The gripper makes minor alignment adjustments while holding the disc, then releases it so the disc rests on the cup and withdraws to the right.",
+    "image": "../image/000136.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Single arm",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV001019",
+    "caption": "An orange slice moves steadily toward the camera and enlarges until it fills the lower foreground. The viewpoint then shifts upward and back, revealing the slice again at a distance, resting near the center of a raised gray platform.",
+    "image": "../image/000137.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Single arm",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV001028",
+    "caption": "The right robotic hand closes around a yellow-orange fruit on the table, lifts it, and carries it rightward toward the lower wooden produce crate. It lowers the fruit among the green vegetables and releases it inside the crate while the left hand remains open nearby.",
+    "image": "../image/000138.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Double arms",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV001034",
+    "caption": "The right robotic hand carries a glass pot lid from the upper right toward the saucepan, lowers it onto the rim, centers it over the opening, releases the knob, and withdraws to the right while the other arm remains still.",
+    "image": "../image/000139.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Double arms",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV001036",
+    "caption": "The left robotic hand approaches the yellow oval object beside the plate, closes around it, lifts it, and carries it rightward over the turquoise plate. It lowers and releases the object near the plate’s center while the right hand remains poised beside the red fruit.",
+    "image": "../image/000140.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Double arms",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV001037",
+    "caption": "The right robotic hand lifts a transparent glass lid from above the pot, carries it to the right side of the tabletop, lowers it flat beside the cooker, and releases the knob. The pot remains uncovered on the cooker while the left robotic hand stays hovering without contact.",
+    "image": "../image/000141.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Double arms",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV001047",
+    "caption": "The right robotic hand moves down toward the glass pot lid, closes its fingers around the knob, and lifts the lid upward. It tilts the transparent lid nearly vertical and raises it clear of the pot, leaving the open pot on the hot plate while the left hand remains still.",
+    "image": "../image/000142.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Double arms",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV001048",
+    "caption": "The right anthropomorphic robot hand reaches down toward the pink fruit, closes its fingers around it, lifts it from the table, and carries it upward and slightly left onto the gray plate. The hand opens and leaves the fruit resting on the plate while the left hand remains still.",
+    "image": "../image/000143.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Double arms",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV001069",
+    "caption": "The right robotic hand moves toward the orange fruit, closes its fingers around it, lifts it from the tabletop, and carries it leftward over the turquoise plate. It lowers and releases the fruit near the plate's center, then withdraws to the right. The left hand remains still beside the yellow fruit.",
+    "image": "../image/000144.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Double arms",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV001072",
+    "caption": "The foreground parallel-jaw gripper moves down toward a black rod on the white surface, aligns its orange pads around the rod, and closes to grasp it. It lifts the rod upright and carries it away from the pickup area while another gripper briefly appears at the left.",
+    "image": "../image/000145.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Double arms",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV001073",
+    "caption": "The right robotic hand closes around the yellow fruit on the table, lifts it, and carries it leftward over the turquoise plate. It lowers the fruit into the center of the plate, releases it, and withdraws to the right while the left hand remains beside the red apple.",
+    "image": "../image/000146.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Double arms",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV001083",
+    "caption": "The right robotic hand moves in from the upper right toward the glass pot lid, lowers onto the central black knob, closes around it, and lifts the lid upward and slightly right. The saucepan remains on the hot plate with its interior exposed, while the other robot hand stays still at the left edge.",
+    "image": "../image/000147.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Double arms",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV001086",
+    "caption": "The view moves in close as a green lidded kettle is lifted and rotated clockwise onto its side. Its lid and curved handle remain attached while the kettle fills most of the view, ending with the lid facing upward and the handle extending to the right.",
+    "image": "../image/000148.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Single arm",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV001088",
+    "caption": "The right robotic hand moves from the right toward a blue square ring, closes around it, lifts and carries it leftward onto a red square base, then releases it. It then grasps a small green-and-yellow block, places it inside the blue ring, and withdraws, leaving a nested stack.",
+    "image": "../image/000149.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Double arms",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV001093",
+    "caption": "The right anthropomorphic robot hand moves in from the upper right toward the saucepan handle, closes around it, and lifts the black saucepan off the tabletop. The pan rises while being carried slightly leftward and upward, leaving the glass lid and induction cooker in place.",
+    "image": "../image/000150.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Double arms",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV001095",
+    "caption": "The right robotic gripper approaches the yellow corn-shaped object, closes around it, and lifts it toward the open left robotic hand. The left hand takes the object, moves it over the yellow plate, releases it onto the plate, and both arms withdraw.",
+    "image": "../image/000151.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Double arms",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV001101",
+    "caption": "A pair of black-and-orange gripper jaws moves over a white work surface toward a short black rod, closes around it, and carries it across the surface. The jaws then open to leave the rod standing upright on a cross-shaped base before withdrawing, while another gripper remains visible at the left.",
+    "image": "../image/000152.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Double arms",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV001105",
+    "caption": "The right robotic hand moves in from the upper right toward the pot lid, closes around the black knob, and lifts the glass lid upward and slightly right, leaving the pot open. A second robotic hand remains visible at the left edge.",
+    "image": "../image/000153.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Double arms",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV001106",
+    "caption": "The right robotic hand lifts and rotates upright, then lowers toward the saucepan’s handle on the right. It closes around the handle and raises the saucepan off the tabletop, tilting it slightly while moving it upward and to the right. The lid, hot plate, and cable remain in place.",
+    "image": "../image/000154.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Double arms",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV001107",
+    "caption": "The right robotic hand moves in from the right over a covered saucepan, lowers its fingers around the lid's black knob, and grips it. The hand lifts the glass lid upward and slightly rightward, exposing the empty interior of the pot while the other robotic hand remains at the left edge.",
+    "image": "../image/000155.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Double arms",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV001108",
+    "caption": "The right robotic hand carries a transparent glass lid from above and to the right of the pot, lowers it over the opening, aligns the rim with the pot, sets the lid in place, and releases it before retracting upward and rightward. The camera remains fixed.",
+    "image": "../image/000156.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Double arms",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV001115",
+    "caption": "The right robotic hand closes around the orange fruit on the table, lifts it, carries it leftward over the turquoise plate, and releases it near the plate's center. The hand withdraws to the right while the yellow fruit and left robotic hand remain in place.",
+    "image": "../image/000157.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Double arms",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV001116",
+    "caption": "The right robotic hand moves down toward the yellow ridged object at the lower right, closes around it, lifts it, and carries it leftward over the turquoise plate. It lowers the object into the center of the plate and releases it, while the left hand remains beside the red object.",
+    "image": "../image/000158.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Double arms",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV001118",
+    "caption": "The gripper approaches the brown ring on the right, closes around it, and lifts it off the table. It carries the ring leftward over the long brown object, lowers and shifts it around the object while the object is briefly raised upright, then lifts the ring away and releases it back onto the tabletop near its starting area.",
+    "image": "../image/000159.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Single arm",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV001119",
+    "caption": "The right robotic hand moves in from the right toward the dragon fruit, closes its fingers around the fruit, lifts it from the tabletop, and carries it rightward over the gray plate. It lowers and releases the fruit onto the center of the plate while the left hand remains open and still.",
+    "image": "../image/000160.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Double arms",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV001129",
+    "caption": "The robot arm lowers its gripper toward the small green cup on the countertop, closes around it, and lifts it slightly. It carries the cup rightward to the base of the black countertop appliance, sets it down in front of the appliance, and retracts out of view.",
+    "image": "../image/000161.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Single arm",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV001133",
+    "caption": "The right robotic hand reaches from the right toward a yellow corn-shaped object at the center of the table, closes around it, and lifts it. The left hand moves in to receive the object, then lowers it onto the yellow plate at the lower left and releases it while the right hand withdraws.",
+    "image": "../image/000162.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Double arms",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV001134",
+    "caption": "The right robotic hand closes around the orange fruit at the right side of the table, lifts and carries it leftward over the turquoise plate, then lowers and releases it near the plate center. The left robotic hand stays beside the yellow fruit without moving it.",
+    "image": "../image/000163.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Double arms",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV001135",
+    "caption": "A single robotic hand enters from the right, opens above the tabletop, then moves diagonally left and downward toward the open clear jar containing pink pieces. Its fingers close around the jar near the rim and body, lifting it straight up off the table while keeping it upright.",
+    "image": "../image/000164.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Single arm",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV001143",
+    "caption": "The right robotic hand moves inward toward the yellow fruit-like object, closes its fingers around it, lifts it from the tabletop, and carries it leftward over the turquoise plate. It lowers the object into the plate, releases it near the lower edge, and withdraws to the right while the left hand remains still beside the red fruit.",
+    "image": "../image/000165.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Double arms",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV001144",
+    "caption": "A robot arm enters from the right, approaches the tall open jar beside the cooktop, closes its articulated fingers around the jar’s middle, and lifts it upward and slightly rightward. The jar remains upright as it is carried away from the tabletop.",
+    "image": "../image/000166.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Single arm",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV001147",
+    "caption": "A robotic hand carries a clear container of small pink-and-white pieces from the right toward a clear cup at the center of the table. It lowers the container over the cup and tilts it, releasing the pieces into the cup until a small pile collects at the bottom.",
+    "image": "../image/000167.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Single arm",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV001155",
+    "caption": "The left robotic hand rotates open and moves upward toward the produce crate, exposing the pink fruit beneath it. The right hand remains open beside the basket, while the tabletop items and surrounding people stay in place; the first-person camera view remains steady.",
+    "image": "../image/000168.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Double arms",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV001157",
+    "caption": "The right robotic hand moves in from the right, closes around the orange fruit, lifts and carries it leftward over the turquoise plate, then opens to place it near the plate's center. Both hands withdraw slightly, leaving the fruit upright on the plate while the yellow-green fruit remains beside the left hand.",
+    "image": "../image/000169.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Double arms",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV001158",
+    "caption": "The left robotic hand moves toward the green grape cluster, opens and lowers its fingers around the grapes, then briefly closes against the cluster and withdraws. The grapes remain on the tabletop beside the turquoise plate, while the right hand stays near the plate without moving the yellow fruit.",
+    "image": "../image/000170.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Double arms",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV001160",
+    "caption": "A single robotic hand moves in from the right over the tabletop, lowers toward the upright patterned bottle near the center, and closes around its upper body and neck area. The bottle remains upright on the table while the hand maintains contact; the surrounding containers and utensils stay still.",
+    "image": "../image/000171.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Single arm",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV001161",
+    "caption": "A pair of black-and-orange gripper jaws moves down toward a short black rod lying on the white surface, closes around it, and lifts it upright. The gripper carries the rod to a cross-shaped base and seats it vertically in the center, then opens and moves away, leaving the rod standing.",
+    "image": "../image/000172.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Double arms",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV001166",
+    "caption": "An anthropomorphic robotic hand moves in from the right with its fingers open, lowers toward the clear cylindrical cup containing small pink pieces near the center-right, and closes around the cup’s upper rim. The cup remains on the tabletop as the hand establishes a grasp.",
+    "image": "../image/000173.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Single arm",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV001188",
+    "caption": "The camera pans right across the kitchen counter, moving away from the coffee machine and mixer to reveal the sink, dishwasher, surrounding cabinets, and a small appliance on the far counter. Two robot arms remain partially visible at the left edge without contacting any objects.",
+    "image": "../image/000174.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Double arms",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV001198",
+    "caption": "The right robotic hand moves in from the right, closes its fingers around the yellow oblong object beside the plate, lifts it, and carries it leftward over the turquoise plate. It releases the object onto the plate’s center, then withdraws while the left hand remains nearby.",
+    "image": "../image/000175.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Double arms",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV001203",
+    "caption": "The left robotic hand moves toward the green grape cluster beside the turquoise plate, closes its fingers around the cluster, and lifts it upward and toward the upper left, carrying it out of the working area. The right hand remains open near the yellow object while the plate stays empty.",
+    "image": "../image/000176.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Double arms",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV001221",
+    "caption": "The right robotic hand closes around the yellow pear-like fruit beside the plate, lifts it, and carries it leftward over the turquoise plate. It lowers and releases the fruit near the plate's lower edge, leaving it resting on the plate while the other hand remains still.",
+    "image": "../image/000177.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Double arms",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV001227",
+    "caption": "The foreground parallel-jaw gripper moves across the white work surface toward a small black rod, aligns its orange-lined jaws around the upright piece, and closes to grip it. It carries the rod forward while another gripper enters from the left, then opens and leaves the rod standing near the left side.",
+    "image": "../image/000178.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Double arms",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV001229",
+    "caption": "The robotic hand lowers toward scattered yellow pieces, grasps a small brush, and sweeps across the tabletop toward the wooden dustpan. A piece becomes visible inside the dustpan. The hand then returns with the brush and continues guiding pieces into the dustpan before lifting away.",
+    "image": "../image/000179.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Single arm",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV001243",
+    "caption": "The left robotic hand moves down to the green grape cluster beside the plate, closes around it, lifts it, and carries it rightward over the turquoise plate. It releases the cluster near the plate's upper-left area while the right hand remains poised nearby, leaving the grapes on the plate.",
+    "image": "../image/000180.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Double arms",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV001245",
+    "caption": "The right robotic hand approaches the yellow oblong object on the right, closes its fingers around it, lifts and carries it leftward over the turquoise plate, then releases it near the plate's lower edge. Both arms remain visible while the camera stays fixed overhead.",
+    "image": "../image/000181.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Double arms",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV001253",
+    "caption": "A single anthropomorphic robotic hand lifts from the lower-right area, rotates its wrist, and moves rightward toward the patterned tissue box. The fingers remain open as the hand approaches, then press against the near side of the box and hold contact near the table edge.",
+    "image": "../image/000182.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Single arm",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV001259",
+    "caption": "A single robotic hand carries a small pink-and-white rectangular carton from the right toward the red basket, lowers it into the basket among the other items, releases it, and then lifts and retracts upward to the right. The external camera remains fixed.",
+    "image": "../image/000183.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Single arm",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV001260",
+    "caption": "Two opposing robotic grippers move inward around a black upright rod, close to hold it between their orange pads, and carry it as the view shifts across the white enclosure. The grippers then open, revealing the rod standing on a cross-shaped base, before moving away and leaving it near the left side.",
+    "image": "../image/000184.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Double arms",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV001262",
+    "caption": "The right robotic hand reaches toward a translucent green cup beside a woven tray, grasps it, and tilts it over the tray. Small colored plastic pieces spill into the tray. The hand then rotates the emptied cup upright, sets it back on the tabletop, and withdraws.",
+    "image": "../image/000185.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Double arms",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV001273",
+    "caption": "The robot hand lowers into the black utensil rack and closes around the pink handle of a beige scrub brush. It lifts the brush upward and to the right, clears the rack, then swings it back leftward above the rack while maintaining its grasp. The camera remains fixed.",
+    "image": "../image/000186.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Single arm",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV001276",
+    "caption": "The right robotic hand reaches to the pink rose at the table’s right edge, closes its fingers around it, lifts it, and carries it leftward over the gray plate. It lowers the rose onto the plate and releases it while the left hand remains still.",
+    "image": "../image/000187.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Double arms",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV001282",
+    "caption": "A single robotic hand moves in from the right toward the black utensil organizer, closes its fingers around the red handle of a sponge-tipped cleaning tool, and lifts it vertically out of the holder. It then carries the tool leftward and downward toward the white bowl without releasing it.",
+    "image": "../image/000188.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Single arm",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV001297",
+    "caption": "A humanoid robotic hand moves in from the right toward an upright cordless drill, aligns its fingers around the handle, closes to grasp it, and lifts the drill off the tabletop. The drill remains held horizontally above the surface while the surrounding objects stay in place.",
+    "image": "../image/000189.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Single arm",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV001306",
+    "caption": "The robot arm lowers and retracts from the cabinet interior as the front drawer slides outward toward the robot. The drawer opens progressively, exposing its empty gray interior while a small orange item remains near the front edge. The arm finishes positioned above the opened drawer.",
+    "image": "../image/000190.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Single arm",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV001309",
+    "caption": "A single robotic hand carries a green-handled wire whisk from the right toward a white mixing bowl, lowers the whisk into the bowl, releases it so it rests inside with the handle leaning toward the right, then retracts away. The scoop beside the bowl and the utensil rack remain stationary.",
+    "image": "../image/000191.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Single arm",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV001311",
+    "caption": "A single robotic hand enters from the right, moves over the red basket, closes its fingers around the wrapped handle of a small broom, and lifts it upward. The bristles rise out of the basket and hang downward as the arm raises the broom above the tabletop.",
+    "image": "../image/000192.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Single arm",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV001330",
+    "caption": "A single robotic hand lifts a small brush from beside the red basket, swings it upward and over the basket, then lowers the bristles inside. The fingers release the handle, leaving the brush standing upright in the basket as the arm withdraws.",
+    "image": "../image/000193.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Single arm",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV001331",
+    "caption": "The robot hand carries a small brown bristled brush above the red basket, moves it upward and toward the basket’s center, then lowers it inside. The fingers open to release the brush in an upright position and the arm withdraws, leaving the brush standing in the basket.",
+    "image": "../image/000194.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Single arm",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV001350",
+    "caption": "The robot advances a white cup filled with pale pink liquid across the marble countertop toward the coffee machine. The cup grows larger as it is guided beside the drip tray, then is lowered onto the tray and released, leaving the handle angled toward the viewer.",
+    "image": "../image/000195.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Single arm",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV001369",
+    "caption": "A single robot arm swings down from the upper right toward a yellow curved item on the shelf, grasps it, and carries it forward and downward across the microwave. The arm lowers the item onto the dark countertop near the front edge, then remains positioned above it.",
+    "image": "../image/000196.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Single arm",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV001393",
+    "caption": "A two-armed robot reaches into the open microwave with one gripper, lifts a small rectangular food item from the interior plate, carries it rightward across the counter, and lowers it onto the dark-rimmed plate. The microwave is left open and empty while the other arm remains nearby.",
+    "image": "../image/000197.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Double arms",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV001410",
+    "caption": "A black square component swings in from the upper right, rotating counterclockwise as it is brought close to the camera. It moves across the foreground and is gradually lowered away, leaving it small and centered against the dark marbled surface while the view rotates and pulls back.",
+    "image": "../image/000198.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Single arm",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV001424",
+    "caption": "The wrist-mounted view moves from an open oven toward a browned round item on a white plate. The robot grips and lifts the item, carries it forward into the oven over the wire rack, then releases it on the rack. The camera pulls back and tilts, showing the item resting inside.",
+    "image": "../image/000199.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Single arm",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV001429",
+    "caption": "The robot advances along a narrow white surface toward an orange beside a clear plastic bin. The orange grows to fill the lower foreground and remains held near the gripper as the viewpoint moves past the bin, then turns and travels back along the surface.",
+    "image": "../image/000200.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Single arm",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV001442",
+    "caption": "The right robotic hand moves inward, closes around the yellow ridged fruit, lifts it from the tabletop, and carries it leftward over the turquoise plate. It releases the fruit onto the plate near the lower-right side, then withdraws while the left hand remains still beside the red fruit.",
+    "image": "../image/000201.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Double arms",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV001451",
+    "caption": "A two-jawed white gripper moves forward over a dark textured surface toward a blue-and-white ball, bringing it close to the camera before pulling away. The view then shifts to a green-and-white ball, which likewise fills the foreground as the gripper approaches and passes beside it.",
+    "image": "../image/000202.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Single arm",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV001452",
+    "caption": "A humanoid robotic hand moves in from the lower right toward an orange carton on the table, closes its fingers around the carton, lifts it, and carries it upward and leftward. It sets the carton upright on the top shelf of the wooden rack, releases it, and withdraws, leaving it standing there.",
+    "image": "../image/000203.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Single arm",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV001457",
+    "caption": "The wrist-mounted view pans and rotates across the wooden worktable toward a tall blue rectangular block. The yellow two-jaw gripper closes around the block, lifts it, carries it to the black tape markings, sets it upright beside the taped boundary, releases it, and retreats over the table.",
+    "image": "../image/000204.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Single arm",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV001459",
+    "caption": "A white two-jaw gripper moves forward across the tabletop toward the lower-right area of a red compartment board. It contacts and swings open a red hinged flap, then withdraws, leaving several lower red flaps visibly open while the board remains upright.",
+    "image": "../image/000205.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Single arm",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV001463",
+    "caption": "A single robotic arm with a green two-finger gripper approaches the colored dome-shaped pieces, grasps the blue piece, and places it on top of the orange piece. It then picks up the green piece and sets it on the blue piece, leaving a vertical three-piece stack.",
+    "image": "../image/000206.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Single arm",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV001468",
+    "caption": "A two-finger gripper moves over a dark ribbed surface as the wrist-mounted view swings toward an orange-and-gray rounded object. The object grows large near the lower left while the camera tilts and shifts, then moves out of the close foreground, revealing more of the surrounding workspace.",
+    "image": "../image/000207.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Single arm",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV001469",
+    "caption": "Two anthropomorphic robot arms are held above a wooden table beside a two-tier produce rack. The right arm lifts and reaches upward toward the lower shelf while the left hand remains open near the table; the viewpoint shifts slightly with the movement.",
+    "image": "../image/000208.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Double arms",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV001471",
+    "caption": "The turquoise two-finger gripper advances toward the upright cardboard box and presses against its side. The wrist-mounted view moves in close as the box shifts and rotates, briefly filling the view. The gripper then withdraws, leaving the box moved aside and exposing small blue and white objects on the tabletop.",
+    "image": "../image/000209.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Single arm",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV001478",
+    "caption": "A blue two-jaw robot gripper swings in from the right toward a small pink object on the tabletop, closes around it, lifts it, and carries it rightward. The gripper lowers the object into a shallow peach-colored round dish, releases it, and withdraws slightly.",
+    "image": "../image/000210.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Single arm",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV001501",
+    "caption": "From the robot's first-person view, the right anthropomorphic arm reaches toward the red apple on the table, closes around it, and lifts it. The arm carries the apple leftward over the yellow plate, lowers it into the plate, releases it upright near the center, and retracts.",
+    "image": "../image/000211.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Double arms",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV001510",
+    "caption": "A robotic hand moves in from the right, rotates palm-down, and approaches the orange oblong object on the tabletop. Its fingers close around the object, lift it from the surface, and carry it upward and rightward toward the white plastic bin, ending above the bin while still holding it.",
+    "image": "../image/000212.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Single arm",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV001522",
+    "caption": "A single robot arm with a green two-finger gripper moves in from the right toward three colored dome-shaped objects. It contacts and repositions the objects one at a time, bringing them together into a vertical stack. The gripper withdraws to the right, leaving the green object balanced on top of the blue and orange objects.",
+    "image": "../image/000213.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Single arm",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV001525",
+    "caption": "The right robotic hand moves down to the near edge of the folded cloth, pinches a corner, and lifts it upward. The cloth bends and unfolds into a raised, tent-like shape while the left hand remains open and stationary beside it.",
+    "image": "../image/000214.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Double arms",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV001529",
+    "caption": "A robotic hand moves in from the lower right toward an upright red drink carton on the table, closes around it, lifts it, and carries it back and slightly left. The hand sets the carton upright on the top shelf of the wooden rack, then releases and withdraws.",
+    "image": "../image/000215.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Single arm",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV001538",
+    "caption": "From an embodied first-person view above the table, the right anthropomorphic robot hand reaches toward the red apple beside the yellow bowl, closes around it, lifts it slightly, and carries it leftward into the bowl. The fingers open to release the apple, then the arm retracts, leaving it upright inside the bowl.",
+    "image": "../image/000216.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Double arms",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV001546",
+    "caption": "A white parallel-jaw gripper moves across the dark ribbed surface from the nearby orange-and-white ball toward a blue ball, closing in close contact. It then shifts to a green-and-white ball, holds it close to the camera, and draws back, leaving the blue ball visible behind it.",
+    "image": "../image/000217.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Single arm",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV001559",
+    "caption": "The red parallel gripper moves across the white tabletop toward a white cylindrical cup with a blue-covered top, closes around it, and lifts it into the foreground. It carries the cup toward the back of the table, then lowers or releases it out of view and returns empty to its starting area.",
+    "image": "../image/000218.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Single arm",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV001566",
+    "caption": "The right robotic hand closes around a yellow elongated object beside the plate, lifts it slightly, and moves it leftward over the plate. It lowers the object onto the plate and opens its fingers, leaving it resting across the plate while the other hand remains still.",
+    "image": "../image/000219.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Double arms",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV001581",
+    "caption": "A two-jaw gripper advances toward a red apple on a perforated black tabletop, closes around the apple’s sides, and carries it upward toward a white bowl. The apple is lowered into the bowl, released, and left centered inside as the gripper withdraws.",
+    "image": "../image/000220.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Single arm",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV001583",
+    "caption": "A white two-finger gripper moves over the black ribbed surface as an orange rounded object enters from the left and fills the foreground. The view shifts and tilts with the motion, while a pale blue-gray rounded object briefly remains behind it before the orange object stays closest to the camera.",
+    "image": "../image/000221.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Single arm",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV001585",
+    "caption": "The red two-jaw gripper moves forward across the white tabletop toward an upright white cup with a blue-covered opening. It closes in around the cup’s rim area, bringing the cup into close view as the camera rises and shifts with the end effector, then withdraws and leaves the cup upright on the table.",
+    "image": "../image/000222.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Single arm",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV001592",
+    "caption": "The wrist-mounted view moves across the wooden work surface toward a tall blue rectangular block beside black tape markings. The foreground gripper closes around the block’s lower end while a second gripper approaches from the right and contacts its side. The block is then lifted and carried away to the upper right, leaving the table clear.",
+    "image": "../image/000223.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Double arms",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV001613",
+    "caption": "The right robotic gripper closes around a yellow oval object beside the plate, lifts it, moves leftward over the turquoise plate, and releases it near the center. The left gripper remains open near a red object at the plate's left edge.",
+    "image": "../image/000224.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Double arms",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV001624",
+    "caption": "The pink two-jaw gripper approaches a patterned paper cup on the white tabletop, closes around its sides, and lifts it so the cup fills the view while the surrounding room rotates. The gripper then lowers and releases the upright cup back onto the tabletop before withdrawing.",
+    "image": "../image/000225.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Single arm",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV001629",
+    "caption": "A white robotic gripper moves in from the left, closes around the blue bone-shaped toy on the mat, lifts it, and carries it over the open cardboard box. The gripper releases the toy into the box, leaving it resting on the bottom while other blue toys remain beside the box.",
+    "image": "../image/000226.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Double arms",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV001630",
+    "caption": "A white articulated robot hand moves in from the lower right toward a red drink carton on the tabletop, closes its fingers around the carton, lifts it upward, and carries it back to the wooden two-tier crate. It sets the carton upright on the crate’s upper shelf, releases it, and withdraws its open hand.",
+    "image": "../image/000227.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Single arm",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV001636",
+    "caption": "A white robot arm lowers its blue two-finger gripper around a small upright transparent tube near the center of the black-covered table. It closes on the tube, lifts and carries it leftward toward a glass cup, then returns it to the central spot, sets it upright, opens, and retracts.",
+    "image": "../image/000228.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Single arm",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV001641",
+    "caption": "The right robotic hand reaches from the right side toward a red apple on the tabletop, closes around it, lifts it, and carries it leftward over the yellow plate. It lowers the apple into the plate, releases it, and retracts, leaving the apple resting inside the plate.",
+    "image": "../image/000229.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Double arms",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV001644",
+    "caption": "The right robotic hand reaches across the table toward a red apple beside a yellow bowl, closes around the apple, lifts it, and carries it leftward over the bowl. It lowers and releases the apple into the bowl, then opens and retracts while the other arm remains visible.",
+    "image": "../image/000230.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Double arms",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV001658",
+    "caption": "The wrist-mounted view moves from an open cardboard box toward a blue bone-shaped toy on a black mat. The white two-finger gripper closes around the toy, lifts it, carries it back over the box, lowers it inside, releases it, and withdraws, leaving the toy in the box.",
+    "image": "../image/000231.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Single arm",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV001659",
+    "caption": "A single robotic hand enters from the lower right, opens its fingers around a red carton near the front edge of the table, lifts it upright, and carries it upward and left toward the wooden rack. The hand sets the carton upright on the rack’s top shelf, releases it, and withdraws.",
+    "image": "../image/000232.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Single arm",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV001663",
+    "caption": "The right robotic hand approaches the red apple on the tabletop, closes its fingers around it, lifts it, and carries it leftward over the yellow bowl. It lowers and releases the apple into the bowl, then withdraws while the other robotic hand remains near the bowl.",
+    "image": "../image/000233.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Double arms",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV001679",
+    "caption": "A white robotic arm moves in from the right toward the red round object near the back of the tabletop. Its articulated hand closes around the object, secures it between the fingers, and lifts it upward and slightly rightward, leaving the yellow and orange objects and empty white bin in place.",
+    "image": "../image/000234.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Single arm",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV001683",
+    "caption": "The robot arm moves in from the right toward the orange dome-shaped object, lowers its green jaw gripper around it, and lifts it from the mat. It carries the orange piece leftward and places it on top of the blue dome-shaped object, forming a stacked pair, then retracts to the right.",
+    "image": "../image/000235.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Single arm",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV001687",
+    "caption": "The right robotic hand reaches toward the red apple on the tabletop, closes its finger-like gripper around it, lifts it, and carries it leftward over the yellow plate. The hand lowers the apple into the center of the plate, releases it, and retracts to the right.",
+    "image": "../image/000236.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Double arms",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV001695",
+    "caption": "A white robotic gripper moves down to the orange-and-cream ball, closes around it, lifts and carries it upward toward the blue-and-cream ball, then sets the orange ball against or partly on the blue ball before retracting to the right.",
+    "image": "../image/000237.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Single arm",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV001698",
+    "caption": "A pair of black gripper jaws approaches a red apple on the perforated work surface, closes around it, and carries it upward toward a white plate. The apple is lowered into the center of the plate, released, and left resting inside as the gripper withdraws.",
+    "image": "../image/000238.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Single arm",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV001709",
+    "caption": "A white parallel-jaw gripper advances toward the red-and-white game board, moving into the rows of animal cards. It contacts and flips down one upright red card panel near the center of the middle row, then withdraws, leaving that panel lowered while the surrounding cards remain standing.",
+    "image": "../image/000239.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Single arm",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV001711",
+    "caption": "A blue parallel-jaw gripper carries a clear glass flask across the dark work surface and lowers it onto the circular white platform of a laboratory hotplate. It then moves up to the control area and turns a knob, while the blue digital display changes to a higher setting.",
+    "image": "../image/000240.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Single arm",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV001730",
+    "caption": "The pink two-jaw gripper moves across the white tabletop toward a tan spotted paper cup, closes around its rim, and lifts it upright. While carrying the cup, the view rotates to reveal the surrounding room and table edge, then the gripper opens and leaves the cup on the tabletop.",
+    "image": "../image/000241.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Single arm",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV001753",
+    "caption": "The red parallel-jaw gripper moves forward across the tabletop toward a white cylindrical container with a blue-covered opening. The jaws close around the container near its rim, lift and carry it leftward, then release or move it out of view before returning empty toward the tabletop.",
+    "image": "../image/000242.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Single arm",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV001764",
+    "caption": "The right robotic hand moves toward the white cup, closes around it, and lifts it slightly from the tabletop. While carrying the cup leftward beside the tall black stand, it bumps the stand, causing the flexible upright stem to bend and the cup to be set down tipped on its side near the base.",
+    "image": "../image/000243.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Double arms",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV001766",
+    "caption": "A humanoid robotic hand moves in from the right above the tabletop, reaches toward the red pomegranate beside the grape cluster, closes its fingers around the fruit, and lifts it slightly off the surface. The white container, yellow fruit, and grapes remain in place while the camera stays fixed.",
+    "image": "../image/000244.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Single arm",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV001767",
+    "caption": "The left robotic hand lowers to the cluster of green grapes, closes around it, lifts it from the tabletop, and carries it upward onto the center of the turquoise plate. It releases the grapes on the plate while the right hand remains poised nearby.",
+    "image": "../image/000245.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Double arms",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV001772",
+    "caption": "The right anthropomorphic robot hand reaches from the right toward a red apple beside the yellow bowl, closes around it, and lifts it. The hand carries the apple leftward over the bowl, lowers it inside, releases it, and withdraws, leaving the apple resting in the bowl.",
+    "image": "../image/000246.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Double arms",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV001778",
+    "caption": "The right robotic hand moves toward the yellow oval object beside the plate, closes its fingers around it, lifts it, and carries it leftward over the plate. It lowers and releases the object near the center of the plate, then withdraws while the left hand remains still.",
+    "image": "../image/000247.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Double arms",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV001781",
+    "caption": "A two-jaw gripper approaches a red apple on the black perforated work surface, closes around its sides, and lifts or carries it forward. The apple is moved toward a white bowl, then lowered into the bowl as the jaws open and withdraw, leaving it resting inside.",
+    "image": "../image/000248.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Single arm",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV001784",
+    "caption": "A white two-jaw gripper moves forward toward the lower-right section of a red folding-card board. The jaws contact a red flap and lift it upright, uncovering the animal card behind it, then pull slightly back while the opened flap remains raised.",
+    "image": "../image/000249.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Single arm",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV001799",
+    "caption": "The right robotic hand enters from the right holding a dark green cucumber-like vegetable, moves over the yellow plate, lowers it onto the plate diagonally, opens its fingers to release it, and withdraws to the right. The left robotic hand remains still beside the table.",
+    "image": "../image/000250.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Double arms",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV001803",
+    "caption": "The pink two-jaw gripper lowers from an upward-facing view toward a patterned paper cup on a white tabletop, closes around it, and lifts it. It carries the upright cup across the table while the wrist-mounted view rotates, then sets the cup down and opens its jaws away from it.",
+    "image": "../image/000251.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Single arm",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV001806",
+    "caption": "From an embodied first-person view over the table, the robot’s right articulated hand reaches toward a red apple on the right, closes around it, lifts it, and carries it leftward over the yellow bowl. The hand lowers and releases the apple into the bowl, then withdraws while the apple remains centered inside.",
+    "image": "../image/000252.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Double arms",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV001810",
+    "caption": "A blue two-jaw robot gripper moves in from the right toward a small pink object on the white tabletop, closes around it, lifts it, and carries it leftward over the shallow pink dish. The gripper opens to release the object into the dish, then retracts to the right while the camera remains fixed.",
+    "image": "../image/000253.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Single arm",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV001812",
+    "caption": "The right anthropomorphic robotic hand reaches from the right toward a red apple near the table edge, closes around it, lifts it, and carries it leftward over the yellow bowl. It lowers the apple into the bowl, releases it, and withdraws, leaving the apple upright inside.",
+    "image": "../image/000254.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Double arms",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV001814",
+    "caption": "The two-jaw gripper advances toward a black rod lying on the white surface, closes around its middle, and lifts it upright between the orange pads. The gripper carries the rod forward and lowers it into the central socket of a cross-shaped black base, then opens and retreats, leaving the rod standing vertically in the base.",
+    "image": "../image/000255.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Single arm",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV001823",
+    "caption": "The right robotic hand moves down toward the pink fruit, closes its fingers around it, lifts it slightly, and carries it rightward onto the gray plate. It releases the fruit on the plate and withdraws, while the left robotic hand remains still beside the table.",
+    "image": "../image/000256.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Double arms",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV001824",
+    "caption": "A single robotic hand enters from the lower right, approaches the red carton on the table, closes its fingers around it, and lifts it. The arm carries the carton upward and backward to the wooden rack, sets it upright on the top shelf, releases it, and retracts.",
+    "image": "../image/000257.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Single arm",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV001827",
+    "caption": "A single robotic arm carries a green round object from the upper-right area toward the white tray, moving leftward and downward while rotating its wrist. The object is brought to hover above the tray's near-right side and remains held in the gripper.",
+    "image": "../image/000258.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Single arm",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV001833",
+    "caption": "The turquoise two-jaw gripper moves forward toward the open cardboard box, bringing the box wall close to the camera and briefly blocking the work surface. It then withdraws and shifts back, revealing the open box, scattered blue pieces, and the tabletop again; no object transfer is visible.",
+    "image": "../image/000259.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Single arm",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV001839",
+    "caption": "A humanoid robot hand enters from the lower right and reaches toward the upright red bottle in front of the wooden crate. It closes around the bottle, lifts it, carries it upward and backward, then sets it upright on the crate’s top shelf before withdrawing.",
+    "image": "../image/000260.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Single arm",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV001840",
+    "caption": "The single robot arm moves its two-finger gripper from the right toward the blue ball, lifts it, and sets it onto the orange ball to form a two-ball stack. It then grasps the green ball, raises it over the stack, and places it on top, leaving a vertical three-ball tower.",
+    "image": "../image/000261.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Single arm",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV001842",
+    "caption": "A white parallel-jaw gripper moves from beside an open cardboard box toward a blue bone-shaped toy on a black mat, closes around it, lifts it, and carries it over the box. The toy is released inside the box, while the wrist-mounted view pulls back to show it resting at the bottom.",
+    "image": "../image/000262.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Single arm",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV001846",
+    "caption": "The right robotic hand closes around the yellow fruit-like object, lifts it from the tabletop, and carries it leftward over the center of the turquoise plate. It lowers the object onto the plate and releases it, then retracts to the right while the left hand remains still beside the red fruit.",
+    "image": "../image/000263.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Double arms",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV001867",
+    "caption": "The camera-mounted yellow gripper moves across the tabletop toward a tall blue rectangular block beside black tape markings. It closes around the block and lifts it upright, carrying it toward the table edge. A second yellow gripper reaches in from the right, takes the block, and removes it, leaving the tabletop clear.",
+    "image": "../image/000264.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Double arms",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV001875",
+    "caption": "The right robotic hand reaches across the table toward a red apple on the right, closes around it, lifts it, and carries it leftward over the yellow plate. It lowers the apple into the plate, releases it upright near the center, and retracts while the other arm remains still.",
+    "image": "../image/000265.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Double arms",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV001880",
+    "caption": "The robotic hand moves in from the right, lowers toward the yellow cup, and presses against its upper edge with its fingers. Continued contact tips the cup leftward from upright to a slanted position while the green block, white bin, and pink object remain still.",
+    "image": "../image/000266.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Single arm",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV001882",
+    "caption": "The right robotic hand reaches to the translucent green cup, grips it, and carries it leftward over the woven basket. It tilts the cup to pour several small blue and orange pieces into the basket, then returns the empty cup upright on the tabletop and withdraws.",
+    "image": "../image/000267.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Double arms",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV001889",
+    "caption": "A single robotic hand moves in from the right toward the orange object at the center of the tabletop, lowers its fingers around it, closes to grasp it, and lifts it off the surface. The arm carries the held object upward and rightward toward the white bin.",
+    "image": "../image/000268.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Single arm",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV001891",
+    "caption": "The parallel-jaw gripper approaches a small black upright piece on the white surface, closes around its central stem, and carries it while the wrist-mounted view shifts across the bin. The gripper later opens and moves away, leaving the piece standing with four taped radial legs visible.",
+    "image": "../image/000269.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Single arm",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV001892",
+    "caption": "A single robotic arm withdraws from the upper-right area, then returns from the right toward a green apple near the table edge. Its anthropomorphic fingers close around the apple, lift it slightly, and carry it rightward out of view. The orange object, grape cluster, and white bin remain stationary.",
+    "image": "../image/000270.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Single arm",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV001900",
+    "caption": "The wrist-mounted camera and blue parallel-jaw gripper move forward toward an open cardboard box, rotate slightly, and enter between its flaps. The gripper remains open without a visible grasp, then backs away and swings out, restoring a clear view of the tabletop and the nearby robot.",
+    "image": "../image/000271.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Single arm",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV001904",
+    "caption": "The right robotic hand holds a red apple, moves inward over the table toward the yellow bowl, lowers the apple into the bowl, releases it, and retracts to the right. The apple remains centered inside the bowl while the left arm stays nearby.",
+    "image": "../image/000272.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Double arms",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV001908",
+    "caption": "The right robotic hand closes around the yellow corn-shaped object on the table, lifts it, and carries it leftward toward the open left hand above the yellow plate. The left hand receives the object, lowers it onto the plate, releases it, and both hands withdraw.",
+    "image": "../image/000273.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Double arms",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV001909",
+    "caption": "A two-finger robotic gripper closes around a black cylindrical peg, lifts it upright, and carries it across the white workspace. The gripper then opens, leaving the peg standing vertically in the center of a four-spoked base before moving away.",
+    "image": "../image/000274.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Single arm",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV001911",
+    "caption": "The wrist-mounted view advances from an open cardboard box toward a blue dumbbell-shaped toy on a black mat. White gripper jaws close around the toy, lift it, and carry it over the box. The gripper lowers inside and releases the blue toy into the box, then withdraws.",
+    "image": "../image/000275.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Single arm",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV001918",
+    "caption": "A pink parallel-jaw gripper moves across the white tabletop toward a spotted paper cup. The jaws close around the cup’s sides and lift it close to the camera, rotating slightly as the cup fills the view. The gripper then lowers or sets the cup back near the tabletop and withdraws, leaving the jaws open.",
+    "image": "../image/000276.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Single arm",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV001921",
+    "caption": "The right robotic hand closes around a red apple on the table, lifts it, and carries it leftward over a yellow bowl. It lowers the apple into the bowl, releases it, and retracts to the right while the apple remains upright inside the bowl.",
+    "image": "../image/000277.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Double arms",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV001924",
+    "caption": "A single robot arm carries a small blue cube from the right toward the white tray, lowers it over the tray interior, opens its fingered gripper to release the cube, and retracts to the right. The cube remains upright near the tray’s left inner side while the fixed oblique camera view stays steady.",
+    "image": "../image/000278.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Single arm",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV001929",
+    "caption": "A pink two-jaw gripper advances across a white tabletop toward a small cream-colored scoop-shaped plastic container. The jaws close around its narrow handle, lift it from the surface, and carry it upward while the wrist-mounted camera rotates, revealing the surrounding room and another similar container nearby.",
+    "image": "../image/000279.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Single arm",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV001930",
+    "caption": "A two-armed robot’s blue-jawed gripper moves down toward a small glass flask at the center of the table, closes around it, lifts it, and carries it leftward onto the circular platform of a white tabletop device. The gripper releases the flask upright and retracts above the platform while the other arm remains still.",
+    "image": "../image/000280.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Double arms",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV001936",
+    "caption": "The wrist-mounted view pans across the wooden tabletop as a second yellow gripper brings a blue rectangular block in from the right. The foreground gripper closes around the block, carries it leftward to a black-tape-marked area, sets it upright between the tape lines, releases it, and withdraws.",
+    "image": "../image/000281.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Double arms",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV001937",
+    "caption": "The right anthropomorphic robot hand reaches toward the translucent red cup, closes its fingers around the rim and upper side, lifts it from the tabletop, and carries it rightward toward the light-blue plate. The left hand remains still, while the held cup stays elevated above the plate.",
+    "image": "../image/000282.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Double arms",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV001942",
+    "caption": "The right robotic arm moves toward the red apple on the table, closes its two-finger gripper around it, lifts it, and carries it leftward over the yellow bowl. The gripper lowers the apple into the bowl, releases it upright near the center, and retracts to the right.",
+    "image": "../image/000283.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Double arms",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV001945",
+    "caption": "The camera tilts and rotates across a black-covered work surface, passing clear glass vessels, a white rack, and a blue plastic fixture. It swings toward the surrounding tabletop and equipment, then returns to a wider view of the vessels; the objects remain in place.",
+    "image": "../image/000284.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Single arm",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV001952",
+    "caption": "A single robot arm moves its two-finger gripper from the right toward the blue ball, grasps it, and places it on top of the orange ball. It then picks up the green ball and sets it on the growing stack, leaving a vertical three-ball tower while the arm retracts to the right.",
+    "image": "../image/000285.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Single arm",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV001954",
+    "caption": "A single robotic hand moves beside a white rectangular bin while holding a small blue cube. It shifts over the bin, opens its fingers, and releases the cube. The cube drops into the bin and comes to rest near the left interior wall as the hand retracts upward and rightward.",
+    "image": "../image/000286.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Single arm",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV001955",
+    "caption": "The right robotic arm lifts from the lower right, swings upward toward the central cross-shaped fixture, and brings its orange-jawed gripper into contact near the fixture. It adjusts its wrist and gripper position around the center, then withdraws downward and returns to its resting position; the left arm remains still.",
+    "image": "../image/000287.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Double arms",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV001957",
+    "caption": "The upper robotic gripper withdraws from the open cabinet shelf, moving down and left away from a small blue-capped container. The container remains upright and unmoved near the back of the shelf, while the lower arm stays visible below. The external oblique view remains fixed.",
+    "image": "../image/000288.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Double arms",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV001965",
+    "caption": "Two opposing robotic grippers approach and close around a slim black rod lying on the white surface. Holding it upright between the jaws, the robot transports it toward a cross-shaped base, then retracts its grippers, leaving the rod standing vertically in the center of the base.",
+    "image": "../image/000289.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Double arms",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV001971",
+    "caption": "The yellow parallel-jaw gripper moves across the wooden tabletop toward a tall blue rectangular block on the right. It closes around the block, lifts and carries it leftward, then lowers and releases it upright beside a black taped line, leaving the block standing on the table.",
+    "image": "../image/000290.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Single arm",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV001974",
+    "caption": "The right robotic hand reaches toward the blue square ring, grips it, lifts it from the tabletop, and carries it rightward over the red square ring. It lowers and releases the blue ring inside the red ring, then picks up the small green-and-yellow block and places it within the nested rings.",
+    "image": "../image/000291.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Double arms",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV001976",
+    "caption": "The wrist-mounted view moves across the wooden tabletop toward a tall blue rectangular block beside black tape markings. A yellow parallel-jaw gripper closes around the block and lifts it, carrying it across the table. A second yellow gripper approaches from the right, takes the raised block, and removes it from view while the first gripper withdraws.",
+    "image": "../image/000292.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Double arms",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV001979",
+    "caption": "The right robotic hand moves inward while holding a red apple, lowers it into the yellow bowl at the center of the table, releases it, and withdraws to the right. The apple remains upright in the bowl as the view stays steady.",
+    "image": "../image/000293.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Double arms",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV001980",
+    "caption": "The red parallel-jaw gripper advances toward a white cup with a blue base, bringing its underside close to view. The cup then shifts upward and out of the gripper's view while the open jaws move back, ending over the empty light-colored surface.",
+    "image": "../image/000294.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Single arm",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV001983",
+    "caption": "A white robotic gripper moves in from the left toward the blue bone-shaped toy on the black mat, closes around it, lifts it, and carries it rightward over the open cardboard box. The gripper releases the toy inside the box, leaving it on the bottom while both arms withdraw.",
+    "image": "../image/000295.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Double arms",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV001986",
+    "caption": "The right robotic hand moves to the lower edge of a rectangular cloth, pinches and lifts a corner, then folds the fabric upward into a smaller layered rectangle near the right side of the table. It releases and lightly presses the folded cloth while the left hand remains still.",
+    "image": "../image/000296.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Double arms",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV001993",
+    "caption": "The right robotic hand opens its fingers, moves in from the lower right toward the white mug, closes around its side, and lifts it. It carries the mug rightward over the round wooden stand, then tilts and releases it so the mug comes to rest on its side beside the stand.",
+    "image": "../image/000297.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Double arms",
+      "camera_view": "head"
+    }
+  },
+  {
+    "task_id": "RV001995",
+    "caption": "The camera slowly lowers and rotates clockwise over a black work surface, keeping two clear glass vessels near the upper edge in view. A blue triangular rack and a translucent cup enter the lower foreground, while the vessels remain upright and unmoved.",
+    "image": "../image/000298.png",
+    "classification": {
+      "gripper_hand": "Gripper",
+      "arm_amount": "Single arm",
+      "camera_view": "Wrist / Eye-in-Hand"
+    }
+  },
+  {
+    "task_id": "RV001997",
+    "caption": "A single robotic hand reaches across the countertop toward a red carton, closes around it, lifts it from the counter, and carries it upward to the wooden rack. The hand sets the carton upright on the top shelf beside a small packet, then withdraws, leaving it standing there.",
+    "image": "../image/000299.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Single arm",
+      "camera_view": "External Third-person"
+    }
+  },
+  {
+    "task_id": "RV002000",
+    "caption": "The right robotic hand moves in from the lower right toward a red apple beside the yellow bowl, closes around it, lifts it slightly, carries it leftward over the bowl, and releases it inside. The hand then withdraws, leaving the apple resting in the bowl.",
+    "image": "../image/000300.png",
+    "classification": {
+      "gripper_hand": "Hand",
+      "arm_amount": "Double arms",
+      "camera_view": "head"
+    }
+  }
+]
