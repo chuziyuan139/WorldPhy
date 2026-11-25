@@ -33,6 +33,16 @@ Each task contains `task_id`, `caption`, `image`, and `classification`. Image pa
 
 The overall benchmark metric is **7/7 pass rate**: a video passes only when all seven scores are 1. [Overall results](evaluation/overall.csv) include per-dimension means, mean total scores, and the mean and sample standard deviation of pass rates over three scoring runs. These are three actual runs with the same seed and temperature 0. Twelve models have 300 videos each; Seedance has 293.
 
+## Checkpoint
+
+Download the default full-parameter E4 checkpoint from **[pandabear139/WorldPhyReward](https://huggingface.co/pandabear139/WorldPhyReward)**:
+
+```bash
+hf download pandabear139/WorldPhyReward --local-dir ./WorldPhyReward-checkpoint
+```
+
+Use this local directory with `--model`, or pass `--model pandabear139/WorldPhyReward` to download the checkpoint automatically. Use the provided inference script to retain the benchmark's prompt, preprocessing, and decoding configuration.
+
 ## Usage
 
 Use a CUDA-capable Linux environment and provide a local WorldPhyReward checkpoint through `--model`.
@@ -49,7 +59,7 @@ Evaluate a directory of generated task videos:
 ```bash
 CUDA_VISIBLE_DEVICES=0,1 python evaluation/evaluate.py \
   --videos /path/to/generated-videos \
-  --model /path/to/WorldPhyReward-checkpoint \
+  --model ./WorldPhyReward-checkpoint \
   --output /path/to/evaluation-results --tp 2 --batch-size 16
 ```
 
@@ -57,7 +67,7 @@ Score one video:
 
 ```bash
 CUDA_VISIBLE_DEVICES=0,1 python worldphyreward/inference/score.py \
-  --model /path/to/WorldPhyReward-checkpoint \
+  --model ./WorldPhyReward-checkpoint \
   --video /path/to/video.mp4 --image /path/to/initial-image.png \
   --caption "Task instruction." --output /path/to/scores --tp 2
 ```
