@@ -2,6 +2,8 @@
 
 **WorldPhy: Benchmarking Fine-Grained Physical Plausibility of World Models in Robotics**
 
+[Paper (arXiv)](https://arxiv.org/abs/2611.34130)
+
 WorldPhy provides 300 initial-image–instruction pairs for evaluating video world models in robotics. The tasks cover gripper and hand manipulation, single and dual arms, and third-person, wrist, and head viewpoints.
 
 WorldPhyReward is a fully fine-tuned Qwen3.5-9B evaluator that produces a binary score and an explanatory reason for each of seven dimensions:
