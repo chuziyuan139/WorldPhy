@@ -1,0 +1,321 @@
+{
+  "models": [
+    {
+      "name": "Seedance 2.0",
+      "videos": 293,
+      "passRate": 81.00113765642776,
+      "passStd": 0.1970478734435535,
+      "total": 6.5517633674630265,
+      "scores": {
+        "R1": 0.9158134243458476,
+        "R2": 0.9658703071672355,
+        "R3": 0.9931740614334471,
+        "R4": 0.9761092150170648,
+        "R5": 0.8600682593856656,
+        "R6": 0.856655290102389,
+        "R7": 0.9840728100113766
+      }
+    },
+    {
+      "name": "MiniMax H3",
+      "videos": 300,
+      "passRate": 81.0,
+      "passStd": 0.3333333333333286,
+      "total": 6.562222222222222,
+      "scores": {
+        "R1": 0.9733333333333334,
+        "R2": 0.9733333333333334,
+        "R3": 0.99,
+        "R4": 0.9766666666666667,
+        "R5": 0.83,
+        "R6": 0.8333333333333334,
+        "R7": 0.9855555555555555
+      }
+    },
+    {
+      "name": "Kling 3.0",
+      "videos": 300,
+      "passRate": 80.77777777777779,
+      "passStd": 0.19245008972987251,
+      "total": 6.596666666666667,
+      "scores": {
+        "R1": 0.9355555555555556,
+        "R2": 0.9844444444444445,
+        "R3": 0.9966666666666667,
+        "R4": 0.9922222222222222,
+        "R5": 0.8511111111111112,
+        "R6": 0.8466666666666667,
+        "R7": 0.99
+      }
+    },
+    {
+      "name": "Wan2.2-I2V-A14B",
+      "videos": 300,
+      "passRate": 75.33333333333333,
+      "passStd": 0.3333333333333357,
+      "total": 6.263333333333334,
+      "scores": {
+        "R1": 0.9077777777777778,
+        "R2": 0.9333333333333333,
+        "R3": 0.9522222222222222,
+        "R4": 0.9377777777777778,
+        "R5": 0.7866666666666666,
+        "R6": 0.7866666666666666,
+        "R7": 0.9588888888888889
+      }
+    },
+    {
+      "name": "LongCat-Video",
+      "videos": 300,
+      "passRate": 64.66666666666667,
+      "passStd": 0.3333333333333357,
+      "total": 5.9255555555555555,
+      "scores": {
+        "R1": 0.8633333333333333,
+        "R2": 0.8966666666666666,
+        "R3": 0.9488888888888889,
+        "R4": 0.9122222222222223,
+        "R5": 0.7,
+        "R6": 0.7,
+        "R7": 0.9044444444444445
+      }
+    },
+    {
+      "name": "Kairos3.1-4B",
+      "videos": 300,
+      "passRate": 60.44444444444444,
+      "passStd": 0.19245008972987251,
+      "total": 5.828888888888889,
+      "scores": {
+        "R1": 0.87,
+        "R2": 0.8944444444444445,
+        "R3": 0.95,
+        "R4": 0.9266666666666666,
+        "R5": 0.6866666666666666,
+        "R6": 0.6866666666666666,
+        "R7": 0.8144444444444444
+      }
+    },
+    {
+      "name": "HunyuanVideo-1.5",
+      "videos": 300,
+      "passRate": 50.55555555555556,
+      "passStd": 0.5091750772173153,
+      "total": 5.467777777777778,
+      "scores": {
+        "R1": 0.7311111111111112,
+        "R2": 0.8488888888888889,
+        "R3": 0.9511111111111111,
+        "R4": 0.8844444444444445,
+        "R5": 0.5955555555555555,
+        "R6": 0.59,
+        "R7": 0.8666666666666667
+      }
+    },
+    {
+      "name": "Wan2.2-TI2V-5B",
+      "videos": 300,
+      "passRate": 50.0,
+      "passStd": 0.3333333333333357,
+      "total": 4.895555555555556,
+      "scores": {
+        "R1": 0.6811111111111111,
+        "R2": 0.7488888888888889,
+        "R3": 0.8177777777777778,
+        "R4": 0.7722222222222223,
+        "R5": 0.5555555555555556,
+        "R6": 0.5577777777777778,
+        "R7": 0.7622222222222222
+      }
+    },
+    {
+      "name": "WoW-1-Wan-14B",
+      "videos": 300,
+      "passRate": 48.77777777777778,
+      "passStd": 0.509175077217316,
+      "total": 4.762222222222222,
+      "scores": {
+        "R1": 0.7277777777777777,
+        "R2": 0.6844444444444444,
+        "R3": 0.77,
+        "R4": 0.7155555555555555,
+        "R5": 0.5488888888888889,
+        "R6": 0.5488888888888889,
+        "R7": 0.7666666666666667
+      }
+    },
+    {
+      "name": "Cosmos 3",
+      "videos": 300,
+      "passRate": 48.55555555555556,
+      "passStd": 0.19245008972987251,
+      "total": 4.93,
+      "scores": {
+        "R1": 0.6411111111111111,
+        "R2": 0.68,
+        "R3": 0.8477777777777777,
+        "R4": 0.7233333333333334,
+        "R5": 0.5788888888888889,
+        "R6": 0.5722222222222222,
+        "R7": 0.8866666666666667
+      }
+    },
+    {
+      "name": "LTX-2.5 Distilled",
+      "videos": 300,
+      "passRate": 27.11111111111111,
+      "passStd": 0.19245008972987457,
+      "total": 4.083333333333333,
+      "scores": {
+        "R1": 0.4288888888888889,
+        "R2": 0.56,
+        "R3": 0.8233333333333334,
+        "R4": 0.6044444444444445,
+        "R5": 0.39,
+        "R6": 0.39111111111111113,
+        "R7": 0.8855555555555555
+      }
+    },
+    {
+      "name": "LTX-2.5 Dev",
+      "videos": 300,
+      "passRate": 22.77777777777778,
+      "passStd": 0.5091750772173153,
+      "total": 3.562222222222222,
+      "scores": {
+        "R1": 0.42,
+        "R2": 0.43555555555555553,
+        "R3": 0.6766666666666666,
+        "R4": 0.52,
+        "R5": 0.3377777777777778,
+        "R6": 0.3411111111111111,
+        "R7": 0.8311111111111111
+      }
+    },
+    {
+      "name": "CogVideoX1.5-5B",
+      "videos": 300,
+      "passRate": 6.555555555555555,
+      "passStd": 0.6938886664887108,
+      "total": 1.0988888888888888,
+      "scores": {
+        "R1": 0.15666666666666668,
+        "R2": 0.10888888888888888,
+        "R3": 0.22777777777777777,
+        "R4": 0.14666666666666667,
+        "R5": 0.08888888888888889,
+        "R6": 0.08333333333333333,
+        "R7": 0.2866666666666667
+      }
+    }
+  ],
+  "coverage": {
+    "gripper_hand": {
+      "Gripper": 150,
+      "Hand": 150
+    },
+    "arm_amount": {
+      "Single arm": 150,
+      "Double arms": 150
+    },
+    "camera_view": {
+      "Third-person": 100,
+      "Wrist": 100,
+      "Head": 100
+    }
+  },
+  "tasks": [
+    {
+      "id": "RV000001",
+      "caption": "A black robotic gripper approaches the small metal saucepan on the back-right burner, grasps it, lifts it, and carries it leftward to set it on the back-left burner. The gripper then picks up the yellow lemon from the front of the stovetop and releases it into the saucepan.",
+      "image": "assets/tasks/RV000001.webp",
+      "classification": {
+        "gripper_hand": "Gripper",
+        "arm_amount": "Single arm",
+        "camera_view": "Third-person"
+      }
+    },
+    {
+      "id": "RV000432",
+      "caption": "The right robotic hand lowers toward the pale cloth, pinches its near edge, and lifts it upward, folding the fabric over itself. The cloth becomes a smaller layered bundle near the center of the table while the left hand remains open and still beside it.",
+      "image": "assets/tasks/RV000432.webp",
+      "classification": {
+        "gripper_hand": "Hand",
+        "arm_amount": "Double arms",
+        "camera_view": "Third-person"
+      }
+    },
+    {
+      "id": "RV001840",
+      "caption": "The single robot arm moves its two-finger gripper from the right toward the blue ball, lifts it, and sets it onto the orange ball to form a two-ball stack. It then grasps the green ball, raises it over the stack, and places it on top, leaving a vertical three-ball tower.",
+      "image": "assets/tasks/RV001840.webp",
+      "classification": {
+        "gripper_hand": "Gripper",
+        "arm_amount": "Single arm",
+        "camera_view": "Third-person"
+      }
+    },
+    {
+      "id": "RV000075",
+      "caption": "A yellow parallel-jaw gripper moves forward toward an upright blue rectangular foam block beside black tape markings. A second yellow gripper enters from the left, contacts the block, and carries it leftward out of the central view. The first gripper remains open below as the view shifts back over the tabletop.",
+      "image": "assets/tasks/RV000075.webp",
+      "classification": {
+        "gripper_hand": "Gripper",
+        "arm_amount": "Double arms",
+        "camera_view": "Wrist"
+      }
+    },
+    {
+      "id": "RV000249",
+      "caption": "A white two-jaw robot gripper moves forward toward the lower-left area of a red-and-white character board. The jaws align beneath an open red flap, press against the board’s lower section, then retreat, leaving the board and its flaps visibly in place.",
+      "image": "assets/tasks/RV000249.webp",
+      "classification": {
+        "gripper_hand": "Gripper",
+        "arm_amount": "Single arm",
+        "camera_view": "Wrist"
+      }
+    },
+    {
+      "id": "RV001711",
+      "caption": "A blue parallel-jaw gripper carries a clear glass flask across the dark work surface and lowers it onto the circular white platform of a laboratory hotplate. It then moves up to the control area and turns a knob, while the blue digital display changes to a higher setting.",
+      "image": "assets/tasks/RV001711.webp",
+      "classification": {
+        "gripper_hand": "Gripper",
+        "arm_amount": "Single arm",
+        "camera_view": "Wrist"
+      }
+    },
+    {
+      "id": "RV001000",
+      "caption": "The right robotic hand closes around a translucent brown cup near the center of the table, lifts it, and carries it rightward above a woven basket. It tilts the cup to pour several small orange and blue pieces into the basket, then returns the now-empty cup upright near the center.",
+      "image": "assets/tasks/RV001000.webp",
+      "classification": {
+        "gripper_hand": "Hand",
+        "arm_amount": "Double arms",
+        "camera_view": "Head"
+      }
+    },
+    {
+      "id": "RV001095",
+      "caption": "The right robotic gripper approaches the yellow corn-shaped object, closes around it, and lifts it toward the open left robotic hand. The left hand takes the object, moves it over the yellow plate, releases it onto the plate, and both arms withdraw.",
+      "image": "assets/tasks/RV001095.webp",
+      "classification": {
+        "gripper_hand": "Hand",
+        "arm_amount": "Double arms",
+        "camera_view": "Head"
+      }
+    },
+    {
+      "id": "RV001452",
+      "caption": "A humanoid robotic hand moves in from the lower right toward an orange carton on the table, closes its fingers around the carton, lifts it, and carries it upward and leftward. It sets the carton upright on the top shelf of the wooden rack, releases it, and withdraws, leaving it standing there.",
+      "image": "assets/tasks/RV001452.webp",
+      "classification": {
+        "gripper_hand": "Hand",
+        "arm_amount": "Single arm",
+        "camera_view": "Head"
+      }
+    }
+  ],
+  "taskCount": 300,
+  "videoCount": 3893
+}

@@ -5,6 +5,7 @@
 </p>
 
 <p align="center">
+  <a href="https://chuziyuan139.github.io/WorldPhy/"><img alt="WorldPhy project page" src="https://img.shields.io/badge/Project-Website-195841?style=for-the-badge"></a>
   <a href="https://arxiv.org/abs/2611.34130"><img alt="Paper on arXiv" src="https://img.shields.io/badge/Paper-arXiv-B31B1B?style=for-the-badge&amp;logo=arxiv&amp;logoColor=white"></a>
   <a href="https://huggingface.co/pandabear139/WorldPhyReward"><img alt="WorldPhyReward model on Hugging Face" src="https://img.shields.io/badge/Model-Hugging%20Face-FFD21E?style=for-the-badge&amp;logo=huggingface&amp;logoColor=FFD21E"></a>
 </p>

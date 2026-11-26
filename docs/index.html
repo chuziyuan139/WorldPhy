@@ -1,0 +1,138 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f9faf7">
+  <meta name="description" content="WorldPhy evaluates fine-grained physical plausibility in robotic videos. Explore 300 benchmark tasks, seven evaluation dimensions, and results from 13 world models.">
+  <meta property="og:title" content="WorldPhy · Physical Plausibility in Robot World Models">
+  <meta property="og:description" content="Explore video comparisons, seven scoring dimensions, and benchmark results.">
+  <title>WorldPhy · Physical Plausibility in Robot World Models</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="site.js" defer></script>
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+  <header class="topbar">
+    <div class="wrap nav">
+      <a href="#" class="wordmark" aria-label="WorldPhy home"><span class="mark" aria-hidden="true"></span>WorldPhy</a>
+      <nav aria-label="Sections">
+        <a href="#compare">Videos</a>
+        <a href="#rubrics">Rubrics</a>
+        <a href="#results">Results</a>
+        <a href="#tasks">Tasks</a>
+      </nav>
+      <a class="nav-paper" href="https://arxiv.org/abs/2611.34130">Paper <span aria-hidden="true">↗</span></a>
+    </div>
+  </header>
+  <main id="main">
+    <section class="hero wrap" aria-labelledby="title">
+      <div class="hero-copy">
+        <h1 id="title">World<span>Phy</span></h1>
+        <p class="subtitle">Benchmarking Fine-Grained Physical Plausibility of World Models in Robotics</p>
+        <p class="authors">Ziyuan Chu<sup>1</sup>, Mingzhi Zheng<sup>2</sup>, Kaiyue Zhang<sup>1</sup>, Jinan Zhang<sup>1</sup>, Linchao Zhu<sup>1,*</sup></p>
+        <p class="affiliations"><sup>1</sup> Zhejiang University &nbsp; <sup>2</sup> Nanjing University &nbsp; <sup>*</sup> Corresponding author</p>
+        <div class="resources">
+          <a class="button primary" href="https://arxiv.org/abs/2611.34130">Read the paper <span aria-hidden="true">↗</span></a>
+          <a class="button" href="https://github.com/chuziyuan139/WorldPhy">Code &amp; tasks <span aria-hidden="true">↗</span></a>
+          <a class="button" href="https://huggingface.co/pandabear139/WorldPhyReward">Model weights <span aria-hidden="true">↗</span></a>
+        </div>
+      </div>
+      <dl class="hero-stats">
+        <div><dt>300</dt><dd>robotics tasks</dd></div>
+        <div><dt>13</dt><dd>world models</dd></div>
+        <div><dt>7</dt><dd>scoring dimensions</dd></div>
+        <div><dt>12K+</dt><dd>human rubric ratings</dd></div>
+      </dl>
+    </section>
+
+    <section id="compare" class="wrap section" aria-labelledby="compare-title">
+      <div class="section-head">
+        <h2 id="compare-title">One task, different rollouts</h2>
+        <p>Compare videos generated from the same initial frame and instruction.</p>
+      </div>
+      <div class="case-shell">
+        <div id="compare-picker" class="case-picker" hidden>
+          <label for="compare-select">Task</label>
+          <select id="compare-select"></select>
+        </div>
+        <div id="comparison" aria-live="polite"><p class="loading">Loading video comparisons…</p></div>
+      </div>
+    </section>
+
+    <section id="rubrics" class="section rubric-section" aria-labelledby="rubrics-title">
+      <div class="wrap">
+        <div class="section-head">
+          <h2 id="rubrics-title">Seven ways to inspect a rollout</h2>
+          <p>WorldPhyReward scores six dimensions of physical plausibility and one for instruction following. Open a criterion to see the generated video and the saved reason.</p>
+        </div>
+        <div class="rubric-shell">
+          <div id="rubric-tabs" class="rubric-tabs" role="tablist" aria-label="Scoring dimensions" aria-orientation="vertical"></div>
+          <div id="rubric-panel" class="rubric-panel" role="tabpanel" tabindex="0"><p class="loading">Loading rubric examples…</p></div>
+        </div>
+      </div>
+    </section>
+
+    <section id="results" class="wrap section" aria-labelledby="results-title">
+      <div class="section-head results-head">
+        <div>
+          <h2 id="results-title">Benchmark results</h2>
+          <p>13 world models evaluated on the fixed WorldPhy task set.</p>
+        </div>
+        <a class="button small" href="https://github.com/chuziyuan139/WorldPhy/blob/main/evaluation/overall.csv">Full results CSV <span aria-hidden="true">↗</span></a>
+      </div>
+      <div class="leaderboard">
+        <div class="table-top">
+          <label for="ranking">Rank by</label>
+          <select id="ranking">
+            <option value="passRate">7/7 pass rate</option>
+            <option value="total">Mean score / 7</option>
+            <option value="R1">EIC · Entity &amp; identity</option>
+            <option value="R2">GMP · Geometry &amp; materials</option>
+            <option value="R3">CJC · Connections &amp; joints</option>
+            <option value="R4">Penetr. · Impenetrability</option>
+            <option value="R5">CIC · Contact &amp; causality</option>
+            <option value="R6">SMD · Support &amp; motion</option>
+            <option value="R7">IF · Instruction following</option>
+          </select>
+        </div>
+        <div class="table-overflow" tabindex="0" role="region" aria-label="World model results table">
+          <table>
+            <thead><tr><th scope="col">Rank</th><th scope="col">World model</th><th scope="col">Videos</th><th scope="col" id="metric-heading">7/7 pass rate</th><th scope="col">Mean score / 7</th></tr></thead>
+            <tbody id="leaderboard-body"></tbody>
+          </table>
+        </div>
+        <p class="table-note">7/7 pass rate is the percentage of videos meeting all seven criteria. Rates summarize three scoring runs at the same seed and temperature 0 as mean ± sample standard deviation in percentage points. Seedance 2.0 has 293 available videos.</p>
+      </div>
+    </section>
+
+    <section id="tasks" class="wrap section" aria-labelledby="tasks-title">
+      <div class="section-head results-head">
+        <div>
+          <h2 id="tasks-title">Explore the benchmark tasks</h2>
+          <p>Every task pairs an initial image with a manipulation instruction.</p>
+        </div>
+        <a class="button small" href="https://github.com/chuziyuan139/WorldPhy/tree/main/task">All 300 tasks <span aria-hidden="true">↗</span></a>
+      </div>
+      <div id="coverage" class="coverage"></div>
+      <div id="task-gallery" class="task-gallery"></div>
+    </section>
+
+    <section id="citation" class="wrap section citation" aria-labelledby="citation-title">
+      <div class="section-head"><h2 id="citation-title">Citation</h2></div>
+      <div class="code-box">
+        <button type="button" id="copy-citation" class="button small">Copy BibTeX</button>
+        <pre id="bibtex">@misc{chu2026worldphy,
+  title         = {WorldPhy: Benchmarking Fine-Grained Physical Plausibility of World Models in Robotics},
+  author        = {Chu, Ziyuan and Zheng, Mingzhi and Zhang, Kaiyue and Zhang, Jinan and Zhu, Linchao},
+  year          = {2026},
+  eprint        = {2611.34130},
+  archivePrefix = {arXiv},
+  url           = {https://arxiv.org/abs/2611.34130}
+}</pre>
+      </div>
+    </section>
+  </main>
+  <footer class="wrap footer"><a class="wordmark" href="#"><span class="mark" aria-hidden="true"></span>WorldPhy</a><span>Zhejiang University · Nanjing University</span><a href="#main">Back to top ↑</a></footer>
+</body>
+</html>

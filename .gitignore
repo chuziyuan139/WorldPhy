@@ -1,4 +1,4 @@
-# Publish only the benchmark tasks and the two standalone entry points.
+# Track the benchmark release and its project site.
 *
 !.gitignore
 !README.md
@@ -10,5 +10,7 @@
 !worldphyreward/
 !worldphyreward/inference/
 !worldphyreward/inference/score.py
+!docs/
+!docs/**
 **/__pycache__/
 **/*.py[cod]

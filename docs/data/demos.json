@@ -1,0 +1,647 @@
+{
+  "description": "Saved WorldPhyReward judgments from the first evaluation run. These are illustrative examples, not a new evaluation.",
+  "rubrics": [
+    {
+      "task_id": "RV000470",
+      "model": "Kling 3.0",
+      "model_id": "Kling-3.0-720p-I2V",
+      "video": "assets/videos/kling-3-0-720p-i2v-rv000470.mp4",
+      "poster": "assets/posters/kling-3-0-720p-i2v-rv000470.jpg",
+      "image": "assets/posters/rv000470-initial.jpg",
+      "caption": "A white robotic gripper approaches the blue bone-shaped toy on the black mat, closes around it, lifts it, and carries it rightward over the open cardboard box. It releases the toy into the box, where it lands on the bottom; several similar blue toys remain on the tabletop beside the box.",
+      "classification": {
+        "gripper_hand": "Gripper",
+        "arm_amount": "Double arms",
+        "camera_view": "External Third-person"
+      },
+      "scores": {
+        "R1": 0,
+        "R2": 1,
+        "R3": 1,
+        "R4": 1,
+        "R5": 1,
+        "R6": 1,
+        "R7": 1
+      },
+      "reasons": {
+        "R1": "Issue: The blue bone-shaped toy duplicates during release, leaving three toys in the previously empty box.",
+        "R2": "Consistent: Shapes and deformations match visible material properties.",
+        "R3": "Consistent: Connections and joint motions respect mechanical constraints.",
+        "R4": "Consistent: No visible interpenetration or clipping is observed.",
+        "R5": "Consistent: Object interactions show plausible contact and force transmission.",
+        "R6": "Consistent: Support and motion remain physically plausible.",
+        "R7": "Consistent: The video fulfills the caption's core requirements."
+      },
+      "total_score": 6,
+      "pass_id": 1,
+      "duration_seconds": 15.042,
+      "playback": "Full original duration; normal playback speed. Display copy resized and re-encoded without audio.",
+      "source": {
+        "video": "evaluation/Kling-3.0-720p-I2V/videos/RV000470.mp4",
+        "scores": "evaluation/Kling-3.0-720p-I2V/results/scores.json",
+        "task_id": "RV000470",
+        "pass_id": 1
+      },
+      "size_bytes": 699814,
+      "id": "R1",
+      "abbreviation": "EIC",
+      "name": "Entity and Identity Consistency",
+      "description": "Do objects and robot parts maintain their count and identity?",
+      "reason": "Issue: The blue bone-shaped toy duplicates during release, leaving three toys in the previously empty box.",
+      "paper_figure": 8,
+      "example_source": "Paper Appendix C.2, Figure 8"
+    },
+    {
+      "task_id": "RV001000",
+      "model": "Kairos3.1-4B",
+      "model_id": "Kairos3.1-4B-robot-480P",
+      "video": "assets/videos/kairos3-1-4b-robot-480p-rv001000.mp4",
+      "poster": "assets/posters/kairos3-1-4b-robot-480p-rv001000.jpg",
+      "image": "assets/posters/rv001000-initial.jpg",
+      "caption": "The right robotic hand closes around a translucent brown cup near the center of the table, lifts it, and carries it rightward above a woven basket. It tilts the cup to pour several small orange and blue pieces into the basket, then returns the now-empty cup upright near the center.",
+      "classification": {
+        "gripper_hand": "Hand",
+        "arm_amount": "Double arms",
+        "camera_view": "head"
+      },
+      "scores": {
+        "R1": 0,
+        "R2": 0,
+        "R3": 1,
+        "R4": 1,
+        "R5": 1,
+        "R6": 1,
+        "R7": 0
+      },
+      "reasons": {
+        "R1": "Issue: The orange pieces in the cup multiply during lifting, changing from a few visible pieces into a large pile without a corresponding opening of the cup.",
+        "R2": "Issue: The cup's rim and sidewall distort into an irregular, warped outline as the right hand lifts and carries it.",
+        "R3": "Consistent: Connections and joint motions respect mechanical constraints.",
+        "R4": "Consistent: No visible interpenetration or clipping is observed.",
+        "R5": "Consistent: Object interactions show plausible contact and force transmission.",
+        "R6": "Consistent: Support and motion remain physically plausible.",
+        "R7": "Issue: The right hand carries the cup over the basket but never visibly pours the orange pieces into it, nor returns the cup upright near the table center."
+      },
+      "total_score": 4,
+      "pass_id": 1,
+      "duration_seconds": 5.062,
+      "playback": "Full original duration; normal playback speed. Display copy resized and re-encoded without audio.",
+      "source": {
+        "video": "evaluation/Kairos3.1-4B-robot-480P/videos/RV001000.mp4",
+        "scores": "evaluation/Kairos3.1-4B-robot-480P/results/scores.json",
+        "task_id": "RV001000",
+        "pass_id": 1
+      },
+      "size_bytes": 166180,
+      "id": "R2",
+      "abbreviation": "GMP",
+      "name": "Geometric and Material Plausibility",
+      "description": "Do shapes and deformations agree with the visible materials?",
+      "reason": "Issue: The cup's rim and sidewall distort into an irregular, warped outline as the right hand lifts and carries it.",
+      "paper_figure": 13,
+      "example_source": "Paper Appendix C.2, Figure 13"
+    },
+    {
+      "task_id": "RV000854",
+      "model": "HunyuanVideo-1.5",
+      "model_id": "HunyuanVideo-1.5-480P-I2V",
+      "video": "assets/videos/hunyuanvideo-1-5-480p-i2v-rv000854.mp4",
+      "poster": "assets/posters/hunyuanvideo-1-5-480p-i2v-rv000854.jpg",
+      "image": "assets/posters/rv000854-initial.jpg",
+      "caption": "The robot arm withdraws from the appliance’s front tray, moves rightward and downward across the countertop, and carries a small green item at its end effector. It continues lowering and rotating away from the appliance, ending near the lower-right area of the view with the green item still held.",
+      "classification": {
+        "gripper_hand": "Gripper",
+        "arm_amount": "Single arm",
+        "camera_view": "External Third-person"
+      },
+      "scores": {
+        "R1": 0,
+        "R2": 0,
+        "R3": 0,
+        "R4": 0,
+        "R5": 0,
+        "R6": 0,
+        "R7": 0
+      },
+      "reasons": {
+        "R1": "Issue: The small green item disappears from the appliance’s front tray and later appears at the robot’s end effector without a visible pickup.",
+        "R2": "Issue: The robot’s joint housings change from compact black shapes into elongated, flattened structures as the arm rotates.",
+        "R3": "Issue: The robot’s lower arm separates from its upper arm, leaving a visible gap where the connection should be.",
+        "R4": "Issue: The robot’s end effector visibly intersects the countertop, with its lower fingers appearing embedded in the surface.",
+        "R5": "Issue: The green item appears at the end effector without a visible grasp or pickup from the appliance’s tray.",
+        "R6": "Issue: The robot’s base and lower support appear to float above the countertop without visible mounting or support.",
+        "R7": "Issue: The robot does not visibly carry the green item from the appliance’s tray, ending without the required held item."
+      },
+      "total_score": 0,
+      "pass_id": 1,
+      "duration_seconds": 10.042,
+      "playback": "Full original duration; normal playback speed. Display copy resized and re-encoded without audio.",
+      "source": {
+        "video": "evaluation/HunyuanVideo-1.5-480P-I2V/videos/RV000854.mp4",
+        "scores": "evaluation/HunyuanVideo-1.5-480P-I2V/results/scores.json",
+        "task_id": "RV000854",
+        "pass_id": 1
+      },
+      "size_bytes": 448378,
+      "id": "R3",
+      "abbreviation": "CJC",
+      "name": "Connection and Joint Constraints",
+      "description": "Do connected parts stay attached and move within their joint constraints?",
+      "reason": "Issue: The robot’s lower arm separates from its upper arm, leaving a visible gap where the connection should be.",
+      "paper_figure": null,
+      "example_source": "Representative benchmark example"
+    },
+    {
+      "task_id": "RV000253",
+      "model": "Cosmos 3",
+      "model_id": "cosmos3",
+      "video": "assets/videos/cosmos3-rv000253.mp4",
+      "poster": "assets/posters/cosmos3-rv000253.jpg",
+      "image": "assets/posters/rv000253-initial.jpg",
+      "caption": "The robot’s right hand reaches from the right side toward a red apple near the center-right of the table, closes around it, lifts it slightly, and carries it leftward over a yellow bowl. It lowers and releases the apple into the bowl, then withdraws while a person watches from across the table.",
+      "classification": {
+        "gripper_hand": "Hand",
+        "arm_amount": "Double arms",
+        "camera_view": "head"
+      },
+      "scores": {
+        "R1": 0,
+        "R2": 0,
+        "R3": 1,
+        "R4": 0,
+        "R5": 0,
+        "R6": 0,
+        "R7": 1
+      },
+      "reasons": {
+        "R1": "Issue: An extra red apple appears beside the robot’s right hand while the first apple remains in the yellow bowl.",
+        "R2": "Issue: The robot’s right gripper visibly warps, with its rigid fingers changing thickness and contour during manipulation.",
+        "R3": "Consistent: Connections and joint motions respect mechanical constraints.",
+        "R4": "Issue: During the second placement, the carried apple visibly merges with the apple already in the yellow bowl instead of remaining a separate solid object.",
+        "R5": "Issue: The second apple moves with the open right gripper without a consistently visible grasp securing it between the fingers.",
+        "R6": "Issue: The second apple appears beside the withdrawing right hand and moves with it before it visibly contacts the hand, making its motion lack a clear contact origin.",
+        "R7": "Consistent: The video fulfills the caption's core requirements."
+      },
+      "total_score": 2,
+      "pass_id": 1,
+      "duration_seconds": 16.042,
+      "playback": "Full original duration; normal playback speed. Display copy resized and re-encoded without audio.",
+      "source": {
+        "video": "evaluation/cosmos3/videos/RV000253.mp4",
+        "scores": "evaluation/cosmos3/results/scores.json",
+        "task_id": "RV000253",
+        "pass_id": 1
+      },
+      "size_bytes": 762616,
+      "id": "R4",
+      "abbreviation": "Penetr.",
+      "name": "Impenetrability",
+      "description": "Do objects avoid passing through or occupying the same solid space?",
+      "reason": "Issue: During the second placement, the carried apple visibly merges with the apple already in the yellow bowl instead of remaining a separate solid object.",
+      "paper_figure": null,
+      "example_source": "Representative benchmark example"
+    },
+    {
+      "task_id": "RV001559",
+      "model": "MiniMax H3",
+      "model_id": "minimax-h3",
+      "video": "assets/videos/minimax-h3-rv001559.mp4",
+      "poster": "assets/posters/minimax-h3-rv001559.jpg",
+      "image": "assets/posters/rv001559-initial.jpg",
+      "caption": "The red parallel gripper moves across the white tabletop toward a white cylindrical cup with a blue-covered top, closes around it, and lifts it into the foreground. It carries the cup toward the back of the table, then lowers or releases it out of view and returns empty to its starting area.",
+      "classification": {
+        "gripper_hand": "Gripper",
+        "arm_amount": "Single arm",
+        "camera_view": "Wrist / Eye-in-Hand"
+      },
+      "scores": {
+        "R1": 1,
+        "R2": 1,
+        "R3": 1,
+        "R4": 1,
+        "R5": 0,
+        "R6": 0,
+        "R7": 1
+      },
+      "reasons": {
+        "R1": "Consistent: Entities remain consistent in existence, count, and identity.",
+        "R2": "Consistent: Shapes and deformations match visible material properties.",
+        "R3": "Consistent: Connections and joint motions respect mechanical constraints.",
+        "R4": "Consistent: No visible interpenetration or clipping is observed.",
+        "R5": "Issue: The red gripper tips close beside the cup, yet the cup moves with them without a visible secure grasp.",
+        "R6": "Issue: The cup rises off the tabletop and remains suspended between the open red jaws without visible support.",
+        "R7": "Consistent: The video fulfills the caption's core requirements."
+      },
+      "total_score": 5,
+      "pass_id": 1,
+      "duration_seconds": 15.083,
+      "playback": "Full original duration; normal playback speed. Display copy resized and re-encoded without audio.",
+      "source": {
+        "video": "evaluation/minimax-h3/videos/RV001559.mp4",
+        "scores": "evaluation/minimax-h3/results/scores.json",
+        "task_id": "RV001559",
+        "pass_id": 1
+      },
+      "size_bytes": 595814,
+      "id": "R5",
+      "abbreviation": "CIC",
+      "name": "Contact and Interaction Causality",
+      "description": "Do grasping and object motion have a visible contact or force pathway?",
+      "reason": "Issue: The red gripper tips close beside the cup, yet the cup moves with them without a visible secure grasp.",
+      "paper_figure": 6,
+      "example_source": "Paper Appendix C.2, Figure 6"
+    },
+    {
+      "task_id": "RV001036",
+      "model": "LongCat-Video",
+      "model_id": "LongCat-Video",
+      "video": "assets/videos/longcat-video-rv001036.mp4",
+      "poster": "assets/posters/longcat-video-rv001036.jpg",
+      "image": "assets/posters/rv001036-initial.jpg",
+      "caption": "The left robotic hand approaches the yellow oval object beside the plate, closes around it, lifts it, and carries it rightward over the turquoise plate. It lowers and releases the object near the plate’s center while the right hand remains poised beside the red fruit.",
+      "classification": {
+        "gripper_hand": "Hand",
+        "arm_amount": "Double arms",
+        "camera_view": "head"
+      },
+      "scores": {
+        "R1": 1,
+        "R2": 1,
+        "R3": 1,
+        "R4": 1,
+        "R5": 0,
+        "R6": 0,
+        "R7": 1
+      },
+      "reasons": {
+        "R1": "Consistent: Entities remain consistent in existence, count, and identity.",
+        "R2": "Consistent: Shapes and deformations match visible material properties.",
+        "R3": "Consistent: Connections and joint motions respect mechanical constraints.",
+        "R4": "Consistent: No visible interpenetration or clipping is observed.",
+        "R5": "Issue: The yellow oval object remains suspended above the plate after both hands withdraw, with no visible contact supporting it.",
+        "R6": "Issue: The yellow oval object hovers above the plate without visible support or downward settling.",
+        "R7": "Consistent: The video fulfills the caption's core requirements."
+      },
+      "total_score": 5,
+      "pass_id": 1,
+      "duration_seconds": 6.2,
+      "playback": "Full original duration; normal playback speed. Display copy resized and re-encoded without audio.",
+      "source": {
+        "video": "evaluation/LongCat-Video/videos/RV001036.mp4",
+        "scores": "evaluation/LongCat-Video/results/scores.json",
+        "task_id": "RV001036",
+        "pass_id": 1
+      },
+      "size_bytes": 250021,
+      "id": "R6",
+      "abbreviation": "SMD",
+      "name": "Support and Motion Dynamics",
+      "description": "Are support, gravity, and motion physically plausible?",
+      "reason": "Issue: The yellow oval object hovers above the plate without visible support or downward settling.",
+      "paper_figure": 12,
+      "example_source": "Paper Appendix C.2, Figure 12"
+    },
+    {
+      "task_id": "RV000178",
+      "model": "HunyuanVideo-1.5",
+      "model_id": "HunyuanVideo-1.5-480P-I2V",
+      "video": "assets/videos/hunyuanvideo-1-5-480p-i2v-rv000178.mp4",
+      "poster": "assets/posters/hunyuanvideo-1-5-480p-i2v-rv000178.jpg",
+      "image": "assets/posters/rv000178-initial.jpg",
+      "caption": "A single white robot arm moves its two-finger gripper toward the upper silver handle, clamps onto it, and pulls the upper wooden drawer front outward to the left. The front swings open, revealing the empty light-wood interior while the lower drawer remains closed.",
+      "classification": {
+        "gripper_hand": "Gripper",
+        "arm_amount": "Single arm",
+        "camera_view": "External Third-person"
+      },
+      "scores": {
+        "R1": 1,
+        "R2": 1,
+        "R3": 1,
+        "R4": 1,
+        "R5": 0,
+        "R6": 0,
+        "R7": 0
+      },
+      "reasons": {
+        "R1": "Consistent: Entities remain consistent in existence, count, and identity.",
+        "R2": "Consistent: Shapes and deformations match visible material properties.",
+        "R3": "Consistent: Connections and joint motions respect mechanical constraints.",
+        "R4": "Consistent: No visible interpenetration or clipping is observed.",
+        "R5": "Issue: The lower drawer slides open while the gripper remains near the upper drawer, with no visible grasp or pulling contact on the lower drawer.",
+        "R6": "Issue: The lower drawer starts sliding outward from rest without a visible push, pull, or other force initiating its motion.",
+        "R7": "Issue: The lower drawer opens and remains open, while the upper drawer stays closed despite the gripper approaching its handle."
+      },
+      "total_score": 4,
+      "pass_id": 1,
+      "duration_seconds": 10.042,
+      "playback": "Full original duration; normal playback speed. Display copy resized and re-encoded without audio.",
+      "source": {
+        "video": "evaluation/HunyuanVideo-1.5-480P-I2V/videos/RV000178.mp4",
+        "scores": "evaluation/HunyuanVideo-1.5-480P-I2V/results/scores.json",
+        "task_id": "RV000178",
+        "pass_id": 1
+      },
+      "size_bytes": 480736,
+      "id": "R7",
+      "abbreviation": "IF",
+      "name": "Instruction Following",
+      "description": "Does the video realize the requested action and final state?",
+      "reason": "Issue: The lower drawer opens and remains open, while the upper drawer stays closed despite the gripper approaching its handle.",
+      "paper_figure": 9,
+      "example_source": "Paper Appendix C.2, Figure 9"
+    }
+  ],
+  "comparisons": [
+    {
+      "task_id": "RV000178",
+      "title": "Open the upper drawer",
+      "caption": "A single white robot arm moves its two-finger gripper toward the upper silver handle, clamps onto it, and pulls the upper wooden drawer front outward to the left. The front swings open, revealing the empty light-wood interior while the lower drawer remains closed.",
+      "image": "assets/posters/rv000178-initial.jpg",
+      "classification": {
+        "gripper_hand": "Gripper",
+        "arm_amount": "Single arm",
+        "camera_view": "External Third-person"
+      },
+      "videos": [
+        {
+          "task_id": "RV000178",
+          "model": "MiniMax H3",
+          "model_id": "minimax-h3",
+          "video": "assets/videos/minimax-h3-rv000178.mp4",
+          "poster": "assets/posters/minimax-h3-rv000178.jpg",
+          "image": "assets/posters/rv000178-initial.jpg",
+          "caption": "A single white robot arm moves its two-finger gripper toward the upper silver handle, clamps onto it, and pulls the upper wooden drawer front outward to the left. The front swings open, revealing the empty light-wood interior while the lower drawer remains closed.",
+          "classification": {
+            "gripper_hand": "Gripper",
+            "arm_amount": "Single arm",
+            "camera_view": "External Third-person"
+          },
+          "scores": {
+            "R1": 1,
+            "R2": 1,
+            "R3": 1,
+            "R4": 1,
+            "R5": 1,
+            "R6": 1,
+            "R7": 1
+          },
+          "reasons": {
+            "R1": "Consistent: Entities remain consistent in existence, count, and identity.",
+            "R2": "Consistent: Shapes and deformations match visible material properties.",
+            "R3": "Consistent: Connections and joint motions respect mechanical constraints.",
+            "R4": "Consistent: No visible interpenetration or clipping is observed.",
+            "R5": "Consistent: Object interactions show plausible contact and force transmission.",
+            "R6": "Consistent: Support and motion remain physically plausible.",
+            "R7": "Consistent: The video fulfills the caption's core requirements."
+          },
+          "total_score": 7,
+          "pass_id": 1,
+          "duration_seconds": 15.083,
+          "playback": "Full original duration; normal playback speed. Display copy resized and re-encoded without audio.",
+          "source": {
+            "video": "evaluation/minimax-h3/videos/RV000178.mp4",
+            "scores": "evaluation/minimax-h3/results/scores.json",
+            "task_id": "RV000178",
+            "pass_id": 1
+          },
+          "size_bytes": 548491,
+          "paper_figure": null
+        },
+        {
+          "task_id": "RV000178",
+          "model": "HunyuanVideo-1.5",
+          "model_id": "HunyuanVideo-1.5-480P-I2V",
+          "video": "assets/videos/hunyuanvideo-1-5-480p-i2v-rv000178.mp4",
+          "poster": "assets/posters/hunyuanvideo-1-5-480p-i2v-rv000178.jpg",
+          "image": "assets/posters/rv000178-initial.jpg",
+          "caption": "A single white robot arm moves its two-finger gripper toward the upper silver handle, clamps onto it, and pulls the upper wooden drawer front outward to the left. The front swings open, revealing the empty light-wood interior while the lower drawer remains closed.",
+          "classification": {
+            "gripper_hand": "Gripper",
+            "arm_amount": "Single arm",
+            "camera_view": "External Third-person"
+          },
+          "scores": {
+            "R1": 1,
+            "R2": 1,
+            "R3": 1,
+            "R4": 1,
+            "R5": 0,
+            "R6": 0,
+            "R7": 0
+          },
+          "reasons": {
+            "R1": "Consistent: Entities remain consistent in existence, count, and identity.",
+            "R2": "Consistent: Shapes and deformations match visible material properties.",
+            "R3": "Consistent: Connections and joint motions respect mechanical constraints.",
+            "R4": "Consistent: No visible interpenetration or clipping is observed.",
+            "R5": "Issue: The lower drawer slides open while the gripper remains near the upper drawer, with no visible grasp or pulling contact on the lower drawer.",
+            "R6": "Issue: The lower drawer starts sliding outward from rest without a visible push, pull, or other force initiating its motion.",
+            "R7": "Issue: The lower drawer opens and remains open, while the upper drawer stays closed despite the gripper approaching its handle."
+          },
+          "total_score": 4,
+          "pass_id": 1,
+          "duration_seconds": 10.042,
+          "playback": "Full original duration; normal playback speed. Display copy resized and re-encoded without audio.",
+          "source": {
+            "video": "evaluation/HunyuanVideo-1.5-480P-I2V/videos/RV000178.mp4",
+            "scores": "evaluation/HunyuanVideo-1.5-480P-I2V/results/scores.json",
+            "task_id": "RV000178",
+            "pass_id": 1
+          },
+          "size_bytes": 480736,
+          "paper_figure": 9
+        },
+        {
+          "task_id": "RV000178",
+          "model": "LTX-2.5 Distilled",
+          "model_id": "LTX-2.5-22B-Distilled",
+          "video": "assets/videos/ltx-2-5-22b-distilled-rv000178.mp4",
+          "poster": "assets/posters/ltx-2-5-22b-distilled-rv000178.jpg",
+          "image": "assets/posters/rv000178-initial.jpg",
+          "caption": "A single white robot arm moves its two-finger gripper toward the upper silver handle, clamps onto it, and pulls the upper wooden drawer front outward to the left. The front swings open, revealing the empty light-wood interior while the lower drawer remains closed.",
+          "classification": {
+            "gripper_hand": "Gripper",
+            "arm_amount": "Single arm",
+            "camera_view": "External Third-person"
+          },
+          "scores": {
+            "R1": 0,
+            "R2": 0,
+            "R3": 0,
+            "R4": 0,
+            "R5": 0,
+            "R6": 0,
+            "R7": 1
+          },
+          "reasons": {
+            "R1": "Issue: The robot’s gripper changes from two fingers into a multi-pronged hand, and its wrist housing develops extra circular joints.",
+            "R2": "Issue: The robot’s white arm segments develop soft, wavy deformations instead of maintaining rigid mechanical shapes.",
+            "R3": "Issue: The gripper’s fingers splay and twist into misaligned connections at the wrist, losing a consistent joint structure.",
+            "R4": "Issue: The gripper’s fingers visibly clip through the upper drawer’s silver handle during the later interaction.",
+            "R5": "Issue: The upper drawer front swings open independently of the gripper, separating from the drawer box while the fingers remain near the lower handle.",
+            "R6": "Issue: The upper drawer front swings away and returns while remaining disconnected from the drawer box, which stays stationary.",
+            "R7": "Consistent: The video fulfills the caption's core requirements."
+          },
+          "total_score": 1,
+          "pass_id": 1,
+          "duration_seconds": 15.042,
+          "playback": "Full original duration; normal playback speed. Display copy resized and re-encoded without audio.",
+          "source": {
+            "video": "evaluation/LTX-2.5-22B-Distilled/videos/RV000178.mp4",
+            "scores": "evaluation/LTX-2.5-22B-Distilled/results/scores.json",
+            "task_id": "RV000178",
+            "pass_id": 1
+          },
+          "size_bytes": 531065,
+          "paper_figure": null
+        }
+      ]
+    },
+    {
+      "task_id": "RV000253",
+      "title": "Place the apple in the bowl",
+      "caption": "The robot’s right hand reaches from the right side toward a red apple near the center-right of the table, closes around it, lifts it slightly, and carries it leftward over a yellow bowl. It lowers and releases the apple into the bowl, then withdraws while a person watches from across the table.",
+      "image": "assets/posters/rv000253-initial.jpg",
+      "classification": {
+        "gripper_hand": "Hand",
+        "arm_amount": "Double arms",
+        "camera_view": "head"
+      },
+      "videos": [
+        {
+          "task_id": "RV000253",
+          "model": "Seedance 2.0",
+          "model_id": "seedance",
+          "video": "assets/videos/seedance-rv000253.mp4",
+          "poster": "assets/posters/seedance-rv000253.jpg",
+          "image": "assets/posters/rv000253-initial.jpg",
+          "caption": "The robot’s right hand reaches from the right side toward a red apple near the center-right of the table, closes around it, lifts it slightly, and carries it leftward over a yellow bowl. It lowers and releases the apple into the bowl, then withdraws while a person watches from across the table.",
+          "classification": {
+            "gripper_hand": "Hand",
+            "arm_amount": "Double arms",
+            "camera_view": "head"
+          },
+          "scores": {
+            "R1": 1,
+            "R2": 1,
+            "R3": 1,
+            "R4": 1,
+            "R5": 1,
+            "R6": 1,
+            "R7": 1
+          },
+          "reasons": {
+            "R1": "Consistent: Entities remain consistent in existence, count, and identity.",
+            "R2": "Consistent: Shapes and deformations match visible material properties.",
+            "R3": "Consistent: Connections and joint motions respect mechanical constraints.",
+            "R4": "Consistent: No visible interpenetration or clipping is observed.",
+            "R5": "Consistent: Object interactions show plausible contact and force transmission.",
+            "R6": "Consistent: Support and motion remain physically plausible.",
+            "R7": "Consistent: The video fulfills the caption's core requirements."
+          },
+          "total_score": 7,
+          "pass_id": 1,
+          "duration_seconds": 15.042,
+          "playback": "Full original duration; normal playback speed. Display copy resized and re-encoded without audio.",
+          "source": {
+            "video": "evaluation/seedance/videos/RV000253.mp4",
+            "scores": "evaluation/seedance/results/scores.json",
+            "task_id": "RV000253",
+            "pass_id": 1
+          },
+          "size_bytes": 1391994,
+          "paper_figure": null
+        },
+        {
+          "task_id": "RV000253",
+          "model": "Cosmos 3",
+          "model_id": "cosmos3",
+          "video": "assets/videos/cosmos3-rv000253.mp4",
+          "poster": "assets/posters/cosmos3-rv000253.jpg",
+          "image": "assets/posters/rv000253-initial.jpg",
+          "caption": "The robot’s right hand reaches from the right side toward a red apple near the center-right of the table, closes around it, lifts it slightly, and carries it leftward over a yellow bowl. It lowers and releases the apple into the bowl, then withdraws while a person watches from across the table.",
+          "classification": {
+            "gripper_hand": "Hand",
+            "arm_amount": "Double arms",
+            "camera_view": "head"
+          },
+          "scores": {
+            "R1": 0,
+            "R2": 0,
+            "R3": 1,
+            "R4": 0,
+            "R5": 0,
+            "R6": 0,
+            "R7": 1
+          },
+          "reasons": {
+            "R1": "Issue: An extra red apple appears beside the robot’s right hand while the first apple remains in the yellow bowl.",
+            "R2": "Issue: The robot’s right gripper visibly warps, with its rigid fingers changing thickness and contour during manipulation.",
+            "R3": "Consistent: Connections and joint motions respect mechanical constraints.",
+            "R4": "Issue: During the second placement, the carried apple visibly merges with the apple already in the yellow bowl instead of remaining a separate solid object.",
+            "R5": "Issue: The second apple moves with the open right gripper without a consistently visible grasp securing it between the fingers.",
+            "R6": "Issue: The second apple appears beside the withdrawing right hand and moves with it before it visibly contacts the hand, making its motion lack a clear contact origin.",
+            "R7": "Consistent: The video fulfills the caption's core requirements."
+          },
+          "total_score": 2,
+          "pass_id": 1,
+          "duration_seconds": 16.042,
+          "playback": "Full original duration; normal playback speed. Display copy resized and re-encoded without audio.",
+          "source": {
+            "video": "evaluation/cosmos3/videos/RV000253.mp4",
+            "scores": "evaluation/cosmos3/results/scores.json",
+            "task_id": "RV000253",
+            "pass_id": 1
+          },
+          "size_bytes": 762616,
+          "paper_figure": null
+        },
+        {
+          "task_id": "RV000253",
+          "model": "LTX-2.5 Distilled",
+          "model_id": "LTX-2.5-22B-Distilled",
+          "video": "assets/videos/ltx-2-5-22b-distilled-rv000253.mp4",
+          "poster": "assets/posters/ltx-2-5-22b-distilled-rv000253.jpg",
+          "image": "assets/posters/rv000253-initial.jpg",
+          "caption": "The robot’s right hand reaches from the right side toward a red apple near the center-right of the table, closes around it, lifts it slightly, and carries it leftward over a yellow bowl. It lowers and releases the apple into the bowl, then withdraws while a person watches from across the table.",
+          "classification": {
+            "gripper_hand": "Hand",
+            "arm_amount": "Double arms",
+            "camera_view": "head"
+          },
+          "scores": {
+            "R1": 0,
+            "R2": 1,
+            "R3": 1,
+            "R4": 1,
+            "R5": 1,
+            "R6": 1,
+            "R7": 1
+          },
+          "reasons": {
+            "R1": "Issue: The red apple duplicates during placement, leaving two apples in the bowl after the right hand releases the single carried apple.",
+            "R2": "Consistent: Shapes and deformations match visible material properties.",
+            "R3": "Consistent: Connections and joint motions respect mechanical constraints.",
+            "R4": "Consistent: No visible interpenetration or clipping is observed.",
+            "R5": "Consistent: Object interactions show plausible contact and force transmission.",
+            "R6": "Consistent: Support and motion remain physically plausible.",
+            "R7": "Consistent: The video fulfills the caption's core requirements."
+          },
+          "total_score": 6,
+          "pass_id": 1,
+          "duration_seconds": 15.042,
+          "playback": "Full original duration; normal playback speed. Display copy resized and re-encoded without audio.",
+          "source": {
+            "video": "evaluation/LTX-2.5-22B-Distilled/videos/RV000253.mp4",
+            "scores": "evaluation/LTX-2.5-22B-Distilled/results/scores.json",
+            "task_id": "RV000253",
+            "pass_id": 1
+          },
+          "size_bytes": 1290348,
+          "paper_figure": null
+        }
+      ]
+    }
+  ]
+}
