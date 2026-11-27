@@ -96,6 +96,12 @@ For batch inference, use `--records records.json`, a list of objects containing 
 
 Inference uses the fixed prompt, 5 fps sampling with up to 128 frames, 640×480 bicubic resizing, BF16, a 24,576-token context, and at most 1,024 output tokens. The original decoding bias and output parser are embedded in `score.py`. Outputs retain raw responses, seven scores and reasons, and parsing errors. The evaluator writes all three runs and aggregate CSV files to `--output`; missing task videos are listed, and pass rates use the number of available videos as their denominator.
 
+## License
+
+The [Apache License 2.0](LICENSE) applies only to the original evaluation and inference code in `evaluation/evaluate.py` and `worldphyreward/inference/score.py` and the project website source in `docs/index.html`, `docs/style.css`, and `docs/site.js`.
+
+Benchmark inputs, evaluation results, and website data and media (`task/`, `evaluation/overall.csv`, `docs/data/`, and `docs/assets/`) are subject to the applicable rights and source terms. The paper's [benchmark construction section](https://arxiv.org/html/2611.34130v1#S3.SS1.SSS1) describes the source datasets. The WorldPhyReward checkpoint is distributed separately under its [model license](https://huggingface.co/pandabear139/WorldPhyReward/blob/main/LICENSE).
+
 ## Citation
 
 ```bibtex
